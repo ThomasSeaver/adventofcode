@@ -29,7 +29,7 @@ def bitmask(val, mask):
 
     return addrList
 
-mem = []
+mem = {}
 
 mask = '000000000000000000000000000000000000'
 
@@ -41,16 +41,9 @@ for line in input:
         val = int(line.split('= ')[1])
         addrList = bitmask(addr, mask)
         for x in addrList:
-            found = False
             newaddr = int('0b' + x, 2)
-            for i in range(len(mem)):
-                if mem[i][0] == newaddr:
-                    mem[i][1] = val
-                    found = True
-                    break
-            if not found:
-                mem.append([newaddr, val])
+            mem.update({newaddr : val})
 sum = 0
-for val in mem:
-    sum += val[1]
+for val in mem.values():
+    sum += val
 print(sum)
