@@ -1,14 +1,35 @@
+use std::cmp::Ordering;
+use std::collections::BinaryHeap;
+use std::collections::HashMap;
 use std::fs;
 use std::time::Instant;
 
 #[derive(Copy, Clone, Debug, PartialEq)]
 struct GridSpot {
     arrival_cost: u32,
-    cost_from_origin: u32,
     visited: bool,
 }
 
-const HIGH_COST: u32 = 1000000;
+#[derive(Copy, Clone, Eq, PartialEq)]
+struct PathStep {
+    cost_from_origin: u32,
+    pos: usize,
+}
+
+impl Ord for PathStep {
+    fn cmp(&self, other: &Self) -> Ordering {
+        other
+            .cost_from_origin
+            .cmp(&self.cost_from_origin)
+            .then_with(|| self.pos.cmp(&other.pos))
+    }
+}
+
+impl PartialOrd for PathStep {
+    fn partial_cmp(&self, other: &Self) -> Option<Ordering> {
+        Some(self.cmp(other))
+    }
+}
 
 fn main() {
     // Parse file input
@@ -31,6 +52,99 @@ fn main() {
         p2(input);
         let duration = start.elapsed();
         println!("Time elapsed: {:?}", duration);
+    }
+}
+
+fn p1(input: &str) {
+    let mut grid_map = HashMap::new();
+    let row_length = input.split('\n').next().expect("Should pass row").len();
+
+    let mut queue: BinaryHeap<PathStep> = BinaryHeap::new();
+
+    for (row_index, row) in input.split('\n').enumerate() {
+        for (chr_index, chr) in row.chars().enumerate() {
+            let digit = chr.to_digit(10).expect("bad digit");
+            let spot = GridSpot {
+                arrival_cost: digit,
+                visited: false,
+            };
+            grid_map.insert(row_length * row_index + chr_index, spot);
+        }
+    }
+
+    queue.push(PathStep {
+        cost_from_origin: 0,
+        pos: 0,
+    });
+
+    loop {
+        let cheapest = queue.pop().expect("queue shouldn't run dry");
+
+        if cheapest.pos == grid_map.len() - 1 {
+            println!("Cheapest path has cost {}", cheapest.cost_from_origin);
+            break;
+        }
+
+        let current = grid_map
+            .get_mut(&cheapest.pos)
+            .expect("position should be valid");
+
+        if current.visited {
+            continue;
+        }
+        current.visited = true;
+
+        if cheapest.pos + row_length < grid_map.len() {
+            let down = grid_map
+                .get_mut(&(cheapest.pos + row_length))
+                .expect("position should be valid");
+
+            if !down.visited {
+                queue.push(PathStep {
+                    cost_from_origin: down.arrival_cost + cheapest.cost_from_origin,
+                    pos: cheapest.pos + row_length,
+                })
+            }
+        }
+
+        if cheapest.pos + 1 < grid_map.len() && (cheapest.pos + 1) % row_length != 0 {
+            let right = grid_map
+                .get_mut(&(cheapest.pos + 1))
+                .expect("position should be valid");
+
+            if !right.visited {
+                queue.push(PathStep {
+                    cost_from_origin: right.arrival_cost + cheapest.cost_from_origin,
+                    pos: cheapest.pos + 1,
+                })
+            }
+        }
+
+        if cheapest.pos >= row_length {
+            let up = grid_map
+                .get_mut(&(cheapest.pos - row_length))
+                .expect("position should be valid");
+
+            if !up.visited {
+                queue.push(PathStep {
+                    cost_from_origin: up.arrival_cost + cheapest.cost_from_origin,
+                    pos: cheapest.pos - row_length,
+                })
+            }
+        }
+
+        if cheapest.pos >= 1 && (cheapest.pos - 1) % row_length != row_length - 1 {
+            let left = grid_map
+                .get_mut(&(cheapest.pos - 1))
+                .expect("position should be valid");
+
+            if !left.visited {
+                queue.push(PathStep {
+                    cost_from_origin: left.arrival_cost + cheapest.cost_from_origin,
+                    pos: cheapest.pos - 1,
+                })
+            }
+        }
     }
 }
 
@@ -96,118 +210,4 @@ fn p2(input: &str) {
         .concat();
 
     p1(&stringified_input);
-}
-
-fn p1(input: &str) {
-    // Translate set of strings to useful array of spots / structs
-    let mut chars: Vec<char> = input.chars().collect();
-    chars.retain(|&x| x != '\n');
-    let mut grid: Vec<GridSpot> = chars
-        .iter()
-        .map(|c| GridSpot {
-            visited: false,
-            arrival_cost: c.to_digit(10).expect("Grid should be numbers"),
-            cost_from_origin: HIGH_COST,
-        })
-        .collect();
-    grid[0].cost_from_origin = 0;
-
-    let grid_limit = grid.len();
-
-    let row_length = match grid_limit {
-        16 => 4,
-        25 => 5,
-        625 => 25,
-        100 => 10,
-        2500 => 50,
-        10000 => 100,
-        250000 => 500,
-        _ => 1,
-    };
-
-    // Loop performing djikstra's until we find spot
-    loop {
-        // Find unvisited node with lowest potential cost
-        // tuple: (index, cost)
-        let min_index = grid
-            .iter()
-            .enumerate()
-            .fold((0, HIGH_COST), |a, (i, x)| {
-                if !x.visited && x.cost_from_origin < a.1 {
-                    return (i, x.cost_from_origin);
-                } else {
-                    return a;
-                }
-            })
-            .0;
-
-        let current = grid
-            .get_mut(min_index)
-            .expect("Current must be a grid spot");
-        current.visited = true;
-
-        if min_index == grid_limit - 1 {
-            println!("Cheapest path cost is {}", current.cost_from_origin);
-            break;
-        }
-
-        let base_cost = current.cost_from_origin;
-
-        if min_index % row_length < row_length - 1 {
-            let right = grid.get_mut(min_index + 1);
-            if let Some(right_spot) = right {
-                if !right_spot.visited {
-                    right_spot.cost_from_origin = right_spot
-                        .cost_from_origin
-                        .min(base_cost + right_spot.arrival_cost);
-                }
-            }
-        }
-
-        let down = grid.get_mut(min_index + row_length);
-        if let Some(down_spot) = down {
-            if !down_spot.visited {
-                down_spot.cost_from_origin = down_spot
-                    .cost_from_origin
-                    .min(base_cost + down_spot.arrival_cost);
-            }
-        }
-
-        if min_index >= 1 && min_index % row_length > 0 {
-            let left = grid.get_mut(min_index - 1);
-            if let Some(left_spot) = left {
-                if !left_spot.visited {
-                    left_spot.cost_from_origin = left_spot
-                        .cost_from_origin
-                        .min(base_cost + left_spot.arrival_cost);
-                }
-            }
-        }
-
-        if min_index >= row_length {
-            let up = grid.get_mut(min_index - row_length);
-            if let Some(up_spot) = up {
-                if !up_spot.visited {
-                    up_spot.cost_from_origin = up_spot
-                        .cost_from_origin
-                        .min(base_cost + up_spot.arrival_cost);
-                }
-            }
-        }
-    }
-    // for row in 0..row_length {
-    //     for col in 0..row_length {
-    //         let val = if grid
-    //             .get(col + row * row_length)
-    //             .expect("should be valid spot")
-    //             .visited
-    //         {
-    //             1
-    //         } else {
-    //             0
-    //         };
-    //         print!("{}", val);
-    //     }
-    //     print!("\n")
-    // }
 }
