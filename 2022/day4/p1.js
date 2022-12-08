@@ -1,7 +1,5 @@
 import { useInput } from "../util.js";
 
-const decode = (letter) => letter;
-
 const handleInput = (input) => {
   const res = [];
 
