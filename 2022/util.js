@@ -14,6 +14,11 @@ export const split = (data, splitter = "\n", trim = true) => {
   return data.split(splitter).map((line) => (trim ? line.trim() : line));
 };
 
-export const useInput = (filename = "i.txt", splitter = "\n", trim = true) => {
-  return split(read(filename), splitter, trim);
+export const useInput = (
+  filename = "i.txt",
+  splitter = "\n",
+  trim = true,
+  shouldSplit = true
+) => {
+  return shouldSplit ? split(read(filename), splitter, trim) : read(filename);
 };

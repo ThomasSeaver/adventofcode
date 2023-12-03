@@ -1,0 +1,7000 @@
+1
+[object Object],[object Object]
+26
+0
+
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+
+5
+[object Object],[object Object]
+22
+891
+DD,BB,CC,EE
+[object Object],[object Object]
+
+6
+[object Object],[object Object]
+21
+891
+DD,BB,CC,EE
+[object Object],[object Object]
+
+7
+[object Object],[object Object]
+20
+891
+DD,BB,CC,EE
+[object Object],[object Object],[object Object]
+
+8
+[object Object],[object Object]
+19
+1206
+DD,BB,CC,EE,JJ
+[object Object],[object Object]
+
+2
+[object Object],[object Object]
+25
+792
+DD,BB
+[object Object],[object Object]
+
+10
+[object Object],[object Object]
+17
+1514
+DD,BB,CC,EE,JJ,HH
+[object Object],[object Object]
+
+11
+[object Object],[object Object]
+16
+1514
+DD,BB,CC,EE,JJ,HH
+[object Object],[object Object]
+
+12
+[object Object],[object Object]
+15
+1514
+DD,BB,CC,EE,JJ,HH
+[object Object],[object Object]
+
+13
+[object Object],[object Object]
+14
+1514
+DD,BB,CC,EE,JJ,HH
+,[object Object]
+
+4
+[object Object],[object Object]
+23
+792
+DD,BB
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+
+15
+[object Object],[object Object]
+18
+1199
+DD,BB,CC,EE,HH
+[object Object],[object Object]
+
+16
+[object Object],[object Object]
+17
+1472
+DD,BB,CC,EE,HH,JJ
+[object Object],[object Object]
+
+17
+[object Object],[object Object]
+16
+1472
+DD,BB,CC,EE,HH,JJ
+[object Object],[object Object]
+
+18
+[object Object],[object Object]
+15
+1472
+DD,BB,CC,EE,HH,JJ
+[object Object],[object Object]
+
+19
+[object Object],[object Object]
+14
+1472
+DD,BB,CC,EE,HH,JJ
+[object Object],[object Object]
+
+20
+[object Object],[object Object]
+13
+1472
+DD,BB,CC,EE,HH,JJ
+,[object Object]
+
+21
+[object Object],[object Object]
+22
+1233
+DD,BB,CC,JJ
+[object Object],[object Object]
+
+22
+[object Object],[object Object]
+21
+1233
+DD,BB,CC,JJ
+[object Object],[object Object]
+
+23
+[object Object],[object Object]
+20
+1233
+DD,BB,CC,JJ
+[object Object],[object Object],[object Object]
+
+14
+[object Object],[object Object]
+19
+1199
+DD,BB,CC,EE,HH
+[object Object],[object Object]
+
+25
+[object Object],[object Object]
+18
+1284
+DD,BB,CC,JJ,EE
+[object Object],[object Object]
+
+26
+[object Object],[object Object]
+17
+1504
+DD,BB,CC,JJ,EE,HH
+[object Object],[object Object]
+
+27
+[object Object],[object Object]
+16
+1504
+DD,BB,CC,JJ,EE,HH
+,[object Object]
+
+9
+[object Object],[object Object]
+18
+1206
+DD,BB,CC,EE,JJ
+[object Object],[object Object]
+
+29
+[object Object],[object Object]
+18
+1541
+DD,BB,CC,JJ,HH
+[object Object],[object Object]
+
+28
+[object Object],[object Object]
+19
+1541
+DD,BB,CC,JJ,HH
+[object Object],[object Object]
+
+31
+[object Object],[object Object]
+16
+1580
+DD,BB,CC,JJ,HH,EE
+[object Object],[object Object]
+
+3
+[object Object],[object Object]
+24
+792
+DD,BB
+[object Object],[object Object]
+
+33
+[object Object],[object Object]
+14
+1580
+DD,BB,CC,JJ,HH,EE
+[object Object],[object Object]
+
+34
+[object Object],[object Object]
+13
+1580
+DD,BB,CC,JJ,HH,EE
+,[object Object]
+
+35
+[object Object],[object Object]
+22
+1186
+DD,BB,CC,HH
+[object Object],[object Object]
+
+30
+[object Object],[object Object]
+17
+1580
+DD,BB,CC,JJ,HH,EE
+[object Object],[object Object]
+
+37
+[object Object],[object Object]
+20
+1186
+DD,BB,CC,HH
+[object Object],[object Object],[object Object]
+
+38
+[object Object],[object Object]
+19
+1237
+DD,BB,CC,HH,EE
+[object Object],[object Object]
+
+36
+[object Object],[object Object]
+21
+1186
+DD,BB,CC,HH
+[object Object],[object Object]
+
+40
+[object Object],[object Object]
+17
+1237
+DD,BB,CC,HH,EE
+[object Object],[object Object]
+
+32
+[object Object],[object Object]
+15
+1580
+DD,BB,CC,JJ,HH,EE
+[object Object],[object Object]
+
+42
+[object Object],[object Object]
+15
+1468
+DD,BB,CC,HH,EE,JJ
+[object Object],
+
+43
+[object Object],[object Object]
+19
+1501
+DD,BB,CC,HH,JJ
+[object Object],[object Object]
+
+44
+[object Object],[object Object]
+18
+1501
+DD,BB,CC,HH,JJ
+[object Object],[object Object]
+
+39
+[object Object],[object Object]
+18
+1237
+DD,BB,CC,HH,EE
+[object Object],[object Object]
+
+46
+[object Object],[object Object]
+16
+1501
+DD,BB,CC,HH,JJ
+[object Object],[object Object]
+
+47
+[object Object],[object Object]
+15
+1501
+DD,BB,CC,HH,JJ
+[object Object],[object Object]
+
+48
+[object Object],[object Object]
+14
+1534
+DD,BB,CC,HH,JJ,EE
+,[object Object]
+
+49
+[object Object],[object Object]
+22
+1254
+DD,BB,EE,JJ
+[object Object],[object Object]
+
+50
+[object Object],[object Object]
+21
+1254
+DD,BB,EE,JJ
+[object Object],[object Object]
+
+45
+[object Object],[object Object]
+17
+1501
+DD,BB,CC,HH,JJ
+[object Object],[object Object]
+
+52
+[object Object],[object Object]
+19
+1288
+DD,BB,EE,JJ,CC
+[object Object],[object Object]
+
+53
+[object Object],[object Object]
+18
+1288
+DD,BB,EE,JJ,CC
+[object Object],[object Object]
+
+54
+[object Object],[object Object]
+17
+1508
+DD,BB,EE,JJ,CC,HH
+[object Object],[object Object]
+
+24
+[object Object],[object Object]
+19
+1284
+DD,BB,CC,JJ,EE
+[object Object],[object Object]
+
+56
+[object Object],[object Object]
+19
+1606
+DD,BB,EE,JJ,HH
+[object Object],[object Object]
+
+57
+[object Object],[object Object]
+18
+1606
+DD,BB,EE,JJ,HH
+[object Object],[object Object]
+
+58
+[object Object],[object Object]
+17
+1632
+DD,BB,EE,JJ,HH,CC
+[object Object],[object Object]
+
+59
+[object Object],[object Object]
+16
+1632
+DD,BB,EE,JJ,HH,CC
+[object Object],[object Object]
+
+60
+[object Object],[object Object]
+15
+1632
+DD,BB,EE,JJ,HH,CC
+,[object Object]
+
+51
+[object Object],[object Object]
+20
+1254
+DD,BB,EE,JJ
+[object Object],[object Object],[object Object]
+
+61
+[object Object],[object Object]
+22
+1207
+DD,BB,EE,HH
+[object Object],[object Object]
+
+55
+[object Object],[object Object]
+16
+1508
+DD,BB,EE,JJ,CC,HH
+,[object Object]
+
+64
+[object Object],[object Object]
+19
+1241
+DD,BB,EE,HH,CC
+[object Object],[object Object]
+
+65
+[object Object],[object Object]
+18
+1241
+DD,BB,EE,HH,CC
+[object Object],[object Object]
+
+66
+[object Object],[object Object]
+17
+1241
+DD,BB,EE,HH,CC
+[object Object],[object Object]
+
+67
+[object Object],[object Object]
+16
+1241
+DD,BB,EE,HH,CC
+[object Object],[object Object]
+
+68
+[object Object],[object Object]
+15
+1472
+DD,BB,EE,HH,CC,JJ
+[object Object],
+
+69
+[object Object],[object Object]
+19
+1522
+DD,BB,EE,HH,JJ
+[object Object],[object Object]
+
+63
+[object Object],[object Object]
+20
+1207
+DD,BB,EE,HH
+[object Object],[object Object],[object Object]
+
+71
+[object Object],[object Object]
+17
+1522
+DD,BB,EE,HH,JJ
+[object Object],[object Object]
+
+72
+[object Object],[object Object]
+16
+1522
+DD,BB,EE,HH,JJ
+[object Object],[object Object]
+
+73
+[object Object],[object Object]
+15
+1522
+DD,BB,EE,HH,JJ
+[object Object],[object Object]
+
+74
+[object Object],[object Object]
+14
+1540
+DD,BB,EE,HH,JJ,CC
+,[object Object]
+
+62
+[object Object],[object Object]
+21
+1207
+DD,BB,EE,HH
+[object Object],[object Object]
+
+76
+[object Object],[object Object]
+21
+1543
+DD,BB,JJ,HH
+[object Object],[object Object]
+
+77
+[object Object],[object Object]
+20
+1543
+DD,BB,JJ,HH
+[object Object],[object Object]
+
+78
+[object Object],[object Object]
+19
+1543
+DD,BB,JJ,HH
+[object Object],[object Object]
+
+79
+[object Object],[object Object]
+18
+1543
+DD,BB,JJ,HH
+[object Object],[object Object],[object Object]
+
+80
+[object Object],[object Object]
+17
+1569
+DD,BB,JJ,HH,CC
+[object Object],[object Object]
+
+75
+[object Object],[object Object]
+22
+1543
+DD,BB,JJ,HH
+[object Object],[object Object]
+
+82
+[object Object],[object Object]
+15
+1569
+DD,BB,JJ,HH,CC
+[object Object],[object Object]
+
+83
+[object Object],[object Object]
+14
+1602
+DD,BB,JJ,HH,CC,EE
+[object Object],[object Object]
+
+84
+[object Object],[object Object]
+13
+1602
+DD,BB,JJ,HH,CC,EE
+[object Object],[object Object]
+
+70
+[object Object],[object Object]
+18
+1522
+DD,BB,EE,HH,JJ
+[object Object],[object Object]
+
+86
+[object Object],[object Object]
+17
+1582
+DD,BB,JJ,HH,EE
+[object Object],[object Object]
+
+87
+[object Object],[object Object]
+16
+1582
+DD,BB,JJ,HH,EE
+[object Object],[object Object]
+
+88
+[object Object],[object Object]
+15
+1582
+DD,BB,JJ,HH,EE
+[object Object],[object Object]
+
+89
+[object Object],[object Object]
+14
+1600
+DD,BB,JJ,HH,EE,CC
+[object Object],[object Object]
+
+90
+[object Object],[object Object]
+13
+1600
+DD,BB,JJ,HH,EE,CC
+[object Object],[object Object]
+
+85
+[object Object],[object Object]
+12
+1602
+DD,BB,JJ,HH,CC,EE
+,[object Object]
+
+92
+[object Object],[object Object]
+25
+526
+DD,CC
+[object Object],[object Object]
+
+93
+[object Object],[object Object]
+24
+526
+DD,CC
+[object Object],[object Object]
+
+94
+[object Object],[object Object]
+23
+526
+DD,CC
+[object Object],[object Object],[object Object],[object Object],[object Object]
+
+95
+[object Object],[object Object]
+22
+589
+DD,CC,EE
+[object Object],[object Object],[object Object],[object Object]
+
+41
+[object Object],[object Object]
+16
+1237
+DD,BB,CC,HH,EE
+[object Object],[object Object]
+
+97
+[object Object],[object Object]
+20
+849
+DD,CC,EE,BB
+[object Object],[object Object],[object Object]
+
+96
+[object Object],[object Object]
+21
+849
+DD,CC,EE,BB
+[object Object],[object Object]
+
+99
+[object Object],[object Object]
+18
+1516
+DD,CC,EE,BB,HH,JJ
+[object Object],[object Object]
+
+100
+[object Object],[object Object]
+17
+1516
+DD,CC,EE,BB,HH,JJ
+[object Object],[object Object]
+
+101
+[object Object],[object Object]
+16
+1516
+DD,CC,EE,BB,HH,JJ
+[object Object],[object Object]
+
+98
+[object Object],[object Object]
+19
+1201
+DD,CC,EE,BB,HH
+[object Object],[object Object]
+
+103
+[object Object],[object Object]
+19
+1164
+DD,CC,EE,BB,JJ
+[object Object],[object Object]
+
+104
+[object Object],[object Object]
+18
+1428
+DD,CC,EE,BB,JJ,HH
+[object Object],[object Object]
+
+105
+[object Object],[object Object]
+17
+1428
+DD,CC,EE,BB,JJ,HH
+[object Object],[object Object]
+
+91
+[object Object],[object Object]
+12
+1600
+DD,BB,JJ,HH,EE,CC
+,[object Object]
+
+107
+[object Object],[object Object]
+15
+1428
+DD,CC,EE,BB,JJ,HH
+[object Object],[object Object]
+
+108
+[object Object],[object Object]
+14
+1428
+DD,CC,EE,BB,JJ,HH
+,[object Object]
+
+109
+[object Object],[object Object]
+21
+946
+DD,CC,EE,JJ
+[object Object],[object Object]
+
+110
+[object Object],[object Object]
+20
+946
+DD,CC,EE,JJ
+[object Object],[object Object],[object Object]
+
+111
+[object Object],[object Object]
+19
+1298
+DD,CC,EE,JJ,HH
+[object Object],[object Object]
+
+106
+[object Object],[object Object]
+16
+1428
+DD,CC,EE,BB,JJ,HH
+[object Object],[object Object]
+
+113
+[object Object],[object Object]
+17
+1298
+DD,CC,EE,JJ,HH
+[object Object],[object Object]
+
+114
+[object Object],[object Object]
+16
+1298
+DD,CC,EE,JJ,HH
+[object Object],[object Object]
+
+115
+[object Object],[object Object]
+15
+1454
+DD,CC,EE,JJ,HH,BB
+,[object Object]
+
+116
+[object Object],[object Object]
+19
+1154
+DD,CC,EE,JJ,BB
+[object Object],[object Object]
+
+117
+[object Object],[object Object]
+18
+1154
+DD,CC,EE,JJ,BB
+[object Object],[object Object]
+
+112
+[object Object],[object Object]
+18
+1298
+DD,CC,EE,JJ,HH
+[object Object],[object Object]
+
+119
+[object Object],[object Object]
+16
+1154
+DD,CC,EE,JJ,BB
+[object Object],[object Object]
+
+120
+[object Object],[object Object]
+15
+1330
+DD,CC,EE,JJ,BB,HH
+,[object Object]
+
+121
+[object Object],[object Object]
+21
+941
+DD,CC,EE,HH
+[object Object],[object Object]
+
+122
+[object Object],[object Object]
+20
+941
+DD,CC,EE,HH
+[object Object],[object Object],[object Object]
+
+81
+[object Object],[object Object]
+16
+1569
+DD,BB,JJ,HH,CC
+[object Object],[object Object]
+
+124
+[object Object],[object Object]
+18
+1149
+DD,CC,EE,HH,BB
+[object Object],[object Object]
+
+125
+[object Object],[object Object]
+17
+1149
+DD,CC,EE,HH,BB
+[object Object],[object Object]
+
+126
+[object Object],[object Object]
+16
+1149
+DD,CC,EE,HH,BB
+[object Object],[object Object]
+
+127
+[object Object],[object Object]
+15
+1149
+DD,CC,EE,HH,BB
+[object Object],[object Object]
+
+128
+[object Object],[object Object]
+19
+1256
+DD,CC,EE,HH,JJ
+[object Object],[object Object]
+
+102
+[object Object],[object Object]
+15
+1516
+DD,CC,EE,BB,HH,JJ
+,[object Object]
+
+130
+[object Object],[object Object]
+17
+1256
+DD,CC,EE,HH,JJ
+[object Object],[object Object]
+
+131
+[object Object],[object Object]
+16
+1256
+DD,CC,EE,HH,JJ
+[object Object],[object Object]
+
+132
+[object Object],[object Object]
+15
+1256
+DD,CC,EE,HH,JJ
+[object Object],[object Object]
+
+133
+[object Object],[object Object]
+14
+1360
+DD,CC,EE,HH,JJ,BB
+,[object Object]
+
+129
+[object Object],[object Object]
+18
+1256
+DD,CC,EE,HH,JJ
+[object Object],[object Object]
+
+135
+[object Object],[object Object]
+21
+843
+DD,CC,BB,EE
+[object Object],[object Object]
+
+136
+[object Object],[object Object]
+20
+843
+DD,CC,BB,EE
+[object Object],[object Object]
+
+137
+[object Object],[object Object]
+19
+843
+DD,CC,BB,EE
+[object Object],[object Object],[object Object]
+
+138
+[object Object],[object Object]
+18
+1158
+DD,CC,BB,EE,JJ
+[object Object],[object Object]
+
+139
+[object Object],[object Object]
+17
+1466
+DD,CC,BB,EE,JJ,HH
+[object Object],[object Object]
+
+140
+[object Object],[object Object]
+16
+1466
+DD,CC,BB,EE,JJ,HH
+[object Object],[object Object]
+
+141
+[object Object],[object Object]
+15
+1466
+DD,CC,BB,EE,JJ,HH
+[object Object],[object Object]
+
+142
+[object Object],[object Object]
+14
+1466
+DD,CC,BB,EE,JJ,HH
+,[object Object]
+
+143
+[object Object],[object Object]
+18
+1107
+DD,CC,BB,EE,HH
+[object Object],[object Object]
+
+144
+[object Object],[object Object]
+17
+1380
+DD,CC,BB,EE,HH,JJ
+[object Object],[object Object]
+
+145
+[object Object],[object Object]
+16
+1380
+DD,CC,BB,EE,HH,JJ
+[object Object],[object Object]
+
+146
+[object Object],[object Object]
+15
+1380
+DD,CC,BB,EE,HH,JJ
+[object Object],[object Object]
+
+147
+[object Object],[object Object]
+14
+1380
+DD,CC,BB,EE,HH,JJ
+[object Object],[object Object]
+
+148
+[object Object],[object Object]
+13
+1380
+DD,CC,BB,EE,HH,JJ
+[object Object],[object Object]
+
+149
+[object Object],[object Object]
+12
+1380
+DD,CC,BB,EE,HH,JJ
+[object Object],
+
+150
+[object Object],[object Object]
+21
+1143
+DD,CC,BB,JJ
+[object Object],[object Object]
+
+151
+[object Object],[object Object]
+20
+1143
+DD,CC,BB,JJ
+[object Object],[object Object]
+
+152
+[object Object],[object Object]
+19
+1143
+DD,CC,BB,JJ
+[object Object],[object Object],[object Object]
+
+153
+[object Object],[object Object]
+18
+1188
+DD,CC,BB,JJ,EE
+[object Object],[object Object]
+
+154
+[object Object],[object Object]
+17
+1188
+DD,CC,BB,JJ,EE
+[object Object],[object Object]
+
+155
+[object Object],[object Object]
+16
+1188
+DD,CC,BB,JJ,EE
+[object Object],[object Object]
+
+156
+[object Object],[object Object]
+15
+1364
+DD,CC,BB,JJ,EE,HH
+[object Object],[object Object]
+
+157
+[object Object],[object Object]
+14
+1364
+DD,CC,BB,JJ,EE,HH
+,[object Object]
+
+158
+[object Object],[object Object]
+18
+1407
+DD,CC,BB,JJ,HH
+[object Object],[object Object]
+
+159
+[object Object],[object Object]
+17
+1407
+DD,CC,BB,JJ,HH
+[object Object],[object Object]
+
+160
+[object Object],[object Object]
+16
+1407
+DD,CC,BB,JJ,HH
+[object Object],[object Object]
+
+161
+[object Object],[object Object]
+15
+1440
+DD,CC,BB,JJ,HH,EE
+[object Object],[object Object]
+
+162
+[object Object],[object Object]
+14
+1440
+DD,CC,BB,JJ,HH,EE
+[object Object],[object Object]
+
+163
+[object Object],[object Object]
+13
+1440
+DD,CC,BB,JJ,HH,EE
+[object Object],[object Object]
+
+164
+[object Object],[object Object]
+12
+1440
+DD,CC,BB,JJ,HH,EE
+[object Object],[object Object]
+
+165
+[object Object],[object Object]
+11
+1440
+DD,CC,BB,JJ,HH,EE
+,[object Object]
+
+166
+[object Object],[object Object]
+21
+1138
+DD,CC,BB,HH
+[object Object],[object Object]
+
+167
+[object Object],[object Object]
+20
+1138
+DD,CC,BB,HH
+[object Object],[object Object]
+
+168
+[object Object],[object Object]
+19
+1138
+DD,CC,BB,HH
+[object Object],[object Object],[object Object]
+
+169
+[object Object],[object Object]
+18
+1183
+DD,CC,BB,HH,EE
+[object Object],[object Object]
+
+170
+[object Object],[object Object]
+17
+1183
+DD,CC,BB,HH,EE
+[object Object],[object Object]
+
+171
+[object Object],[object Object]
+16
+1183
+DD,CC,BB,HH,EE
+[object Object],[object Object]
+
+172
+[object Object],[object Object]
+15
+1183
+DD,CC,BB,HH,EE
+[object Object],[object Object]
+
+173
+[object Object],[object Object]
+14
+1330
+DD,CC,BB,HH,EE,JJ
+,[object Object]
+
+174
+[object Object],[object Object]
+18
+1453
+DD,CC,BB,HH,JJ
+[object Object],[object Object]
+
+175
+[object Object],[object Object]
+17
+1453
+DD,CC,BB,HH,JJ
+[object Object],[object Object]
+
+176
+[object Object],[object Object]
+16
+1453
+DD,CC,BB,HH,JJ
+[object Object],[object Object]
+
+177
+[object Object],[object Object]
+15
+1453
+DD,CC,BB,HH,JJ
+[object Object],[object Object]
+
+178
+[object Object],[object Object]
+14
+1486
+DD,CC,BB,HH,JJ,EE
+,[object Object]
+
+179
+[object Object],[object Object]
+22
+925
+DD,CC,JJ
+[object Object],[object Object],[object Object],[object Object]
+
+180
+[object Object],[object Object]
+21
+1185
+DD,CC,JJ,BB
+[object Object],[object Object]
+
+181
+[object Object],[object Object]
+20
+1185
+DD,CC,JJ,BB
+[object Object],[object Object]
+
+182
+[object Object],[object Object]
+19
+1185
+DD,CC,JJ,BB
+[object Object],[object Object],[object Object]
+
+183
+[object Object],[object Object]
+18
+1230
+DD,CC,JJ,BB,EE
+[object Object],[object Object]
+
+184
+[object Object],[object Object]
+17
+1450
+DD,CC,JJ,BB,EE,HH
+[object Object],[object Object]
+
+118
+[object Object],[object Object]
+17
+1154
+DD,CC,EE,JJ,BB
+[object Object],[object Object]
+
+186
+[object Object],[object Object]
+15
+1450
+DD,CC,JJ,BB,EE,HH
+[object Object],[object Object]
+
+187
+[object Object],[object Object]
+14
+1450
+DD,CC,JJ,BB,EE,HH
+[object Object],
+
+188
+[object Object],[object Object]
+18
+1449
+DD,CC,JJ,BB,HH
+[object Object],[object Object]
+
+189
+[object Object],[object Object]
+17
+1488
+DD,CC,JJ,BB,HH,EE
+[object Object],[object Object]
+
+190
+[object Object],[object Object]
+16
+1488
+DD,CC,JJ,BB,HH,EE
+[object Object],[object Object]
+
+191
+[object Object],[object Object]
+15
+1488
+DD,CC,JJ,BB,HH,EE
+[object Object],[object Object]
+
+134
+[object Object],[object Object]
+22
+786
+DD,CC,BB
+[object Object],[object Object],[object Object],[object Object]
+
+193
+[object Object],[object Object]
+13
+1488
+DD,CC,JJ,BB,HH,EE
+[object Object],[object Object]
+
+194
+[object Object],[object Object]
+12
+1488
+DD,CC,JJ,BB,HH,EE
+,[object Object]
+
+195
+[object Object],[object Object]
+21
+982
+DD,CC,JJ,EE
+[object Object],[object Object]
+
+196
+[object Object],[object Object]
+20
+982
+DD,CC,JJ,EE
+[object Object],[object Object]
+
+197
+[object Object],[object Object]
+19
+982
+DD,CC,JJ,EE
+[object Object],[object Object]
+
+123
+[object Object],[object Object]
+19
+1149
+DD,CC,EE,HH,BB
+[object Object],[object Object]
+
+199
+[object Object],[object Object]
+17
+1472
+DD,CC,JJ,EE,BB,HH
+[object Object],[object Object]
+
+192
+[object Object],[object Object]
+14
+1488
+DD,CC,JJ,BB,HH,EE
+[object Object],[object Object]
+
+201
+[object Object],[object Object]
+15
+1472
+DD,CC,JJ,EE,BB,HH
+[object Object],[object Object]
+
+202
+[object Object],[object Object]
+14
+1472
+DD,CC,JJ,EE,BB,HH
+[object Object],[object Object]
+
+203
+[object Object],[object Object]
+13
+1472
+DD,CC,JJ,EE,BB,HH
+,
+
+204
+[object Object],[object Object]
+21
+1277
+DD,CC,JJ,HH
+[object Object],[object Object]
+
+205
+[object Object],[object Object]
+20
+1277
+DD,CC,JJ,HH
+[object Object],[object Object]
+
+206
+[object Object],[object Object]
+19
+1277
+DD,CC,JJ,HH
+[object Object],[object Object]
+
+207
+[object Object],[object Object]
+18
+1277
+DD,CC,JJ,HH
+[object Object],[object Object],[object Object]
+
+208
+[object Object],[object Object]
+17
+1459
+DD,CC,JJ,HH,BB
+[object Object],[object Object]
+
+209
+[object Object],[object Object]
+16
+1459
+DD,CC,JJ,HH,BB
+[object Object],[object Object]
+
+210
+[object Object],[object Object]
+15
+1459
+DD,CC,JJ,HH,BB
+[object Object],[object Object]
+
+211
+[object Object],[object Object]
+14
+1492
+DD,CC,JJ,HH,BB,EE
+[object Object],[object Object]
+
+212
+[object Object],[object Object]
+13
+1492
+DD,CC,JJ,HH,BB,EE
+,[object Object]
+
+213
+[object Object],[object Object]
+17
+1316
+DD,CC,JJ,HH,EE
+[object Object],[object Object]
+
+214
+[object Object],[object Object]
+16
+1316
+DD,CC,JJ,HH,EE
+[object Object],[object Object]
+
+215
+[object Object],[object Object]
+15
+1316
+DD,CC,JJ,HH,EE
+[object Object],[object Object]
+
+216
+[object Object],[object Object]
+14
+1420
+DD,CC,JJ,HH,EE,BB
+[object Object],[object Object]
+
+217
+[object Object],[object Object]
+13
+1420
+DD,CC,JJ,HH,EE,BB
+[object Object],[object Object]
+
+218
+[object Object],[object Object]
+12
+1420
+DD,CC,JJ,HH,EE,BB
+,[object Object]
+
+219
+[object Object],[object Object]
+22
+922
+DD,CC,HH
+[object Object],[object Object],[object Object],[object Object]
+
+221
+[object Object],[object Object]
+20
+1182
+DD,CC,HH,BB
+[object Object],[object Object]
+
+220
+[object Object],[object Object]
+21
+1182
+DD,CC,HH,BB
+[object Object],[object Object]
+
+222
+[object Object],[object Object]
+19
+1182
+DD,CC,HH,BB
+[object Object],[object Object],[object Object]
+
+185
+[object Object],[object Object]
+16
+1450
+DD,CC,JJ,BB,EE,HH
+[object Object],[object Object]
+
+224
+[object Object],[object Object]
+17
+1227
+DD,CC,HH,BB,EE
+[object Object],[object Object]
+
+225
+[object Object],[object Object]
+16
+1416
+DD,CC,HH,BB,EE,JJ
+[object Object],[object Object]
+
+226
+[object Object],[object Object]
+15
+1416
+DD,CC,HH,BB,EE,JJ
+[object Object],[object Object]
+
+227
+[object Object],[object Object]
+14
+1416
+DD,CC,HH,BB,EE,JJ
+[object Object],
+
+228
+[object Object],[object Object]
+18
+1497
+DD,CC,HH,BB,JJ
+[object Object],[object Object]
+
+198
+[object Object],[object Object]
+18
+982
+DD,CC,JJ,EE
+[object Object],[object Object],[object Object],[object Object]
+
+230
+[object Object],[object Object]
+16
+1536
+DD,CC,HH,BB,JJ,EE
+[object Object],[object Object]
+
+231
+[object Object],[object Object]
+15
+1536
+DD,CC,HH,BB,JJ,EE
+[object Object],[object Object]
+
+232
+[object Object],[object Object]
+14
+1536
+DD,CC,HH,BB,JJ,EE
+[object Object],
+
+233
+[object Object],[object Object]
+21
+979
+DD,CC,HH,EE
+[object Object],[object Object]
+
+229
+[object Object],[object Object]
+17
+1497
+DD,CC,HH,BB,JJ
+[object Object],[object Object]
+
+235
+[object Object],[object Object]
+19
+979
+DD,CC,HH,EE
+[object Object],[object Object]
+
+236
+[object Object],[object Object]
+18
+979
+DD,CC,HH,EE
+[object Object],[object Object],[object Object]
+
+237
+[object Object],[object Object]
+17
+1161
+DD,CC,HH,EE,BB
+[object Object],[object Object]
+
+234
+[object Object],[object Object]
+20
+979
+DD,CC,HH,EE
+[object Object],[object Object]
+
+239
+[object Object],[object Object]
+15
+1350
+DD,CC,HH,EE,BB,JJ
+[object Object],[object Object]
+
+240
+[object Object],[object Object]
+14
+1350
+DD,CC,HH,EE,BB,JJ
+[object Object],[object Object]
+
+241
+[object Object],[object Object]
+13
+1350
+DD,CC,HH,EE,BB,JJ
+[object Object],
+
+242
+[object Object],[object Object]
+17
+1252
+DD,CC,HH,EE,JJ
+[object Object],[object Object]
+
+243
+[object Object],[object Object]
+16
+1382
+DD,CC,HH,EE,JJ,BB
+[object Object],[object Object]
+
+223
+[object Object],[object Object]
+18
+1227
+DD,CC,HH,BB,EE
+[object Object],[object Object]
+
+245
+[object Object],[object Object]
+14
+1382
+DD,CC,HH,EE,JJ,BB
+[object Object],[object Object]
+
+246
+[object Object],[object Object]
+13
+1382
+DD,CC,HH,EE,JJ,BB
+[object Object],[object Object]
+
+247
+[object Object],[object Object]
+12
+1382
+DD,CC,HH,EE,JJ,BB
+[object Object],
+
+248
+[object Object],[object Object]
+21
+1279
+DD,CC,HH,JJ
+[object Object],[object Object]
+
+249
+[object Object],[object Object]
+20
+1279
+DD,CC,HH,JJ
+[object Object],[object Object]
+
+244
+[object Object],[object Object]
+15
+1382
+DD,CC,HH,EE,JJ,BB
+[object Object],[object Object]
+
+251
+[object Object],[object Object]
+18
+1279
+DD,CC,HH,JJ
+[object Object],[object Object]
+
+252
+[object Object],[object Object]
+17
+1279
+DD,CC,HH,JJ
+[object Object],[object Object],[object Object]
+
+253
+[object Object],[object Object]
+16
+1318
+DD,CC,HH,JJ,EE
+[object Object],[object Object]
+
+254
+[object Object],[object Object]
+15
+1474
+DD,CC,HH,JJ,EE,BB
+[object Object],[object Object]
+
+250
+[object Object],[object Object]
+19
+1279
+DD,CC,HH,JJ
+[object Object],[object Object]
+
+255
+[object Object],[object Object]
+14
+1474
+DD,CC,HH,JJ,EE,BB
+[object Object],[object Object]
+
+257
+[object Object],[object Object]
+12
+1474
+DD,CC,HH,JJ,EE,BB
+,[object Object]
+
+258
+[object Object],[object Object]
+16
+1409
+DD,CC,HH,JJ,BB
+[object Object],[object Object]
+
+200
+[object Object],[object Object]
+16
+1472
+DD,CC,JJ,EE,BB,HH
+[object Object],[object Object]
+
+260
+[object Object],[object Object]
+14
+1442
+DD,CC,HH,JJ,BB,EE
+[object Object],[object Object]
+
+261
+[object Object],[object Object]
+13
+1442
+DD,CC,HH,JJ,BB,EE
+[object Object],[object Object]
+
+259
+[object Object],[object Object]
+15
+1442
+DD,CC,HH,JJ,BB,EE
+[object Object],[object Object]
+
+256
+[object Object],[object Object]
+13
+1474
+DD,CC,HH,JJ,EE,BB
+[object Object],[object Object]
+
+263
+[object Object],[object Object]
+11
+1442
+DD,CC,HH,JJ,BB,EE
+[object Object],[object Object]
+
+265
+[object Object],[object Object]
+25
+549
+DD,EE
+[object Object],[object Object]
+
+266
+[object Object],[object Object]
+24
+549
+DD,EE
+[object Object],[object Object]
+
+267
+[object Object],[object Object]
+23
+549
+DD,EE
+[object Object],[object Object],[object Object],[object Object],[object Object]
+
+268
+[object Object],[object Object]
+22
+591
+DD,EE,CC
+[object Object],[object Object],[object Object],[object Object]
+
+269
+[object Object],[object Object]
+21
+987
+DD,EE,CC,HH
+[object Object],[object Object]
+
+270
+[object Object],[object Object]
+20
+987
+DD,EE,CC,HH
+[object Object],[object Object],[object Object]
+
+271
+[object Object],[object Object]
+19
+1221
+DD,EE,CC,HH,BB
+[object Object],[object Object]
+
+272
+[object Object],[object Object]
+18
+1221
+DD,EE,CC,HH,BB
+[object Object],[object Object]
+
+273
+[object Object],[object Object]
+17
+1221
+DD,EE,CC,HH,BB
+[object Object],[object Object]
+
+274
+[object Object],[object Object]
+19
+1302
+DD,EE,CC,HH,JJ
+[object Object],[object Object]
+
+275
+[object Object],[object Object]
+18
+1302
+DD,EE,CC,HH,JJ
+[object Object],[object Object]
+
+276
+[object Object],[object Object]
+17
+1302
+DD,EE,CC,HH,JJ
+[object Object],[object Object]
+
+277
+[object Object],[object Object]
+16
+1432
+DD,EE,CC,HH,JJ,BB
+[object Object],[object Object]
+
+278
+[object Object],[object Object]
+15
+1432
+DD,EE,CC,HH,JJ,BB
+[object Object],[object Object]
+
+264
+[object Object],[object Object]
+10
+1442
+DD,CC,HH,JJ,BB,EE
+[object Object],
+
+280
+[object Object],[object Object]
+21
+825
+DD,EE,CC,BB
+[object Object],[object Object]
+
+281
+[object Object],[object Object]
+20
+825
+DD,EE,CC,BB
+[object Object],[object Object],[object Object]
+
+282
+[object Object],[object Object]
+19
+1140
+DD,EE,CC,BB,JJ
+[object Object],[object Object]
+
+283
+[object Object],[object Object]
+18
+1140
+DD,EE,CC,BB,JJ
+[object Object],[object Object]
+
+284
+[object Object],[object Object]
+17
+1140
+DD,EE,CC,BB,JJ
+[object Object],[object Object]
+
+285
+[object Object],[object Object]
+16
+1360
+DD,EE,CC,BB,JJ,HH
+[object Object],[object Object]
+
+286
+[object Object],[object Object]
+15
+1360
+DD,EE,CC,BB,JJ,HH
+[object Object],[object Object]
+
+287
+[object Object],[object Object]
+14
+1360
+DD,EE,CC,BB,JJ,HH
+,[object Object]
+
+288
+[object Object],[object Object]
+19
+1133
+DD,EE,CC,BB,HH
+[object Object],[object Object]
+
+262
+[object Object],[object Object]
+12
+1442
+DD,CC,HH,JJ,BB,EE
+[object Object],[object Object]
+
+290
+[object Object],[object Object]
+17
+1133
+DD,EE,CC,BB,HH
+[object Object],[object Object]
+
+279
+[object Object],[object Object]
+14
+1432
+DD,EE,CC,HH,JJ,BB
+,[object Object]
+
+292
+[object Object],[object Object]
+15
+1406
+DD,EE,CC,BB,HH,JJ
+[object Object],[object Object]
+
+293
+[object Object],[object Object]
+14
+1406
+DD,EE,CC,BB,HH,JJ
+[object Object],[object Object]
+
+294
+[object Object],[object Object]
+13
+1406
+DD,EE,CC,BB,HH,JJ
+,[object Object]
+
+295
+[object Object],[object Object]
+21
+948
+DD,EE,CC,JJ
+[object Object],[object Object]
+
+291
+[object Object],[object Object]
+16
+1406
+DD,EE,CC,BB,HH,JJ
+[object Object],[object Object]
+
+297
+[object Object],[object Object]
+19
+1182
+DD,EE,CC,JJ,BB
+[object Object],[object Object]
+
+298
+[object Object],[object Object]
+18
+1182
+DD,EE,CC,JJ,BB
+[object Object],[object Object]
+
+299
+[object Object],[object Object]
+17
+1182
+DD,EE,CC,JJ,BB
+[object Object],[object Object]
+
+296
+[object Object],[object Object]
+20
+948
+DD,EE,CC,JJ
+[object Object],[object Object],[object Object]
+
+301
+[object Object],[object Object]
+19
+1256
+DD,EE,CC,JJ,HH
+[object Object],[object Object]
+
+302
+[object Object],[object Object]
+18
+1256
+DD,EE,CC,JJ,HH
+[object Object],[object Object]
+
+289
+[object Object],[object Object]
+18
+1133
+DD,EE,CC,BB,HH
+[object Object],[object Object]
+
+304
+[object Object],[object Object]
+16
+1256
+DD,EE,CC,JJ,HH
+[object Object],[object Object]
+
+305
+[object Object],[object Object]
+15
+1412
+DD,EE,CC,JJ,HH,BB
+[object Object],[object Object]
+
+306
+[object Object],[object Object]
+14
+1412
+DD,EE,CC,JJ,HH,BB
+[object Object],[object Object]
+
+307
+[object Object],[object Object]
+13
+1412
+DD,EE,CC,JJ,HH,BB
+,[object Object]
+
+308
+[object Object],[object Object]
+22
+809
+DD,EE,BB
+[object Object],[object Object],[object Object],[object Object]
+
+309
+[object Object],[object Object]
+21
+847
+DD,EE,BB,CC
+[object Object],[object Object]
+
+310
+[object Object],[object Object]
+20
+847
+DD,EE,BB,CC
+[object Object],[object Object]
+
+311
+[object Object],[object Object]
+19
+847
+DD,EE,BB,CC
+[object Object],[object Object],[object Object]
+
+312
+[object Object],[object Object]
+18
+1162
+DD,EE,BB,CC,JJ
+[object Object],[object Object]
+
+313
+[object Object],[object Object]
+17
+1426
+DD,EE,BB,CC,JJ,HH
+[object Object],[object Object]
+
+314
+[object Object],[object Object]
+16
+1426
+DD,EE,BB,CC,JJ,HH
+[object Object],[object Object]
+
+315
+[object Object],[object Object]
+15
+1426
+DD,EE,BB,CC,JJ,HH
+[object Object],[object Object]
+
+316
+[object Object],[object Object]
+14
+1426
+DD,EE,BB,CC,JJ,HH
+,[object Object]
+
+317
+[object Object],[object Object]
+18
+1111
+DD,EE,BB,CC,HH
+[object Object],[object Object]
+
+318
+[object Object],[object Object]
+17
+1384
+DD,EE,BB,CC,HH,JJ
+[object Object],[object Object]
+
+319
+[object Object],[object Object]
+16
+1384
+DD,EE,BB,CC,HH,JJ
+[object Object],[object Object]
+
+320
+[object Object],[object Object]
+15
+1384
+DD,EE,BB,CC,HH,JJ
+[object Object],[object Object]
+
+321
+[object Object],[object Object]
+14
+1384
+DD,EE,BB,CC,HH,JJ
+[object Object],[object Object]
+
+300
+[object Object],[object Object]
+16
+1402
+DD,EE,CC,JJ,BB,HH
+[object Object],
+
+323
+[object Object],[object Object]
+12
+1384
+DD,EE,BB,CC,HH,JJ
+[object Object],
+
+303
+[object Object],[object Object]
+17
+1256
+DD,EE,CC,JJ,HH
+[object Object],[object Object]
+
+324
+[object Object],[object Object]
+21
+1205
+DD,EE,BB,HH
+[object Object],[object Object]
+
+326
+[object Object],[object Object]
+19
+1205
+DD,EE,BB,HH
+[object Object],[object Object],[object Object]
+
+327
+[object Object],[object Object]
+18
+1239
+DD,EE,BB,HH,CC
+[object Object],[object Object]
+
+238
+[object Object],[object Object]
+16
+1350
+DD,CC,HH,EE,BB,JJ
+[object Object],[object Object]
+
+329
+[object Object],[object Object]
+16
+1428
+DD,EE,BB,HH,CC,JJ
+,[object Object]
+
+330
+[object Object],[object Object]
+18
+1520
+DD,EE,BB,HH,JJ
+[object Object],[object Object]
+
+325
+[object Object],[object Object]
+20
+1205
+DD,EE,BB,HH
+[object Object],[object Object]
+
+328
+[object Object],[object Object]
+17
+1239
+DD,EE,BB,HH,CC
+[object Object],[object Object]
+
+331
+[object Object],[object Object]
+17
+1520
+DD,EE,BB,HH,JJ
+[object Object],[object Object]
+
+334
+[object Object],[object Object]
+14
+1542
+DD,EE,BB,HH,JJ,CC
+,[object Object]
+
+335
+[object Object],[object Object]
+21
+1166
+DD,EE,BB,JJ
+[object Object],[object Object]
+
+322
+[object Object],[object Object]
+13
+1384
+DD,EE,BB,CC,HH,JJ
+[object Object],[object Object]
+
+337
+[object Object],[object Object]
+19
+1166
+DD,EE,BB,JJ
+[object Object],[object Object],[object Object]
+
+338
+[object Object],[object Object]
+18
+1200
+DD,EE,BB,JJ,CC
+[object Object],[object Object]
+
+336
+[object Object],[object Object]
+20
+1166
+DD,EE,BB,JJ
+[object Object],[object Object]
+
+340
+[object Object],[object Object]
+16
+1200
+DD,EE,BB,JJ,CC
+[object Object],[object Object]
+
+341
+[object Object],[object Object]
+18
+1430
+DD,EE,BB,JJ,HH
+[object Object],[object Object]
+
+332
+[object Object],[object Object]
+16
+1542
+DD,EE,BB,HH,JJ,CC
+[object Object],[object Object]
+
+343
+[object Object],[object Object]
+16
+1430
+DD,EE,BB,JJ,HH
+[object Object],[object Object]
+
+342
+[object Object],[object Object]
+17
+1430
+DD,EE,BB,JJ,HH
+[object Object],[object Object]
+
+345
+[object Object],[object Object]
+14
+1452
+DD,EE,BB,JJ,HH,CC
+[object Object],[object Object]
+
+346
+[object Object],[object Object]
+13
+1452
+DD,EE,BB,JJ,HH,CC
+[object Object],[object Object]
+
+347
+[object Object],[object Object]
+12
+1452
+DD,EE,BB,JJ,HH,CC
+[object Object],[object Object]
+
+348
+[object Object],[object Object]
+11
+1452
+DD,EE,BB,JJ,HH,CC
+,[object Object]
+
+349
+[object Object],[object Object]
+22
+948
+DD,EE,JJ
+[object Object],[object Object],[object Object],[object Object]
+
+339
+[object Object],[object Object]
+17
+1200
+DD,EE,BB,JJ,CC
+[object Object],[object Object]
+
+351
+[object Object],[object Object]
+20
+986
+DD,EE,JJ,CC
+[object Object],[object Object]
+
+352
+[object Object],[object Object]
+19
+986
+DD,EE,JJ,CC
+[object Object],[object Object]
+
+350
+[object Object],[object Object]
+21
+986
+DD,EE,JJ,CC
+[object Object],[object Object]
+
+354
+[object Object],[object Object]
+17
+1432
+DD,EE,JJ,CC,BB,HH
+[object Object],[object Object]
+
+355
+[object Object],[object Object]
+16
+1432
+DD,EE,JJ,CC,BB,HH
+[object Object],[object Object]
+
+344
+[object Object],[object Object]
+15
+1452
+DD,EE,BB,JJ,HH,CC
+[object Object],[object Object]
+
+357
+[object Object],[object Object]
+14
+1432
+DD,EE,JJ,CC,BB,HH
+[object Object],[object Object]
+
+358
+[object Object],[object Object]
+13
+1432
+DD,EE,JJ,CC,BB,HH
+,[object Object]
+
+359
+[object Object],[object Object]
+21
+1344
+DD,EE,JJ,HH
+[object Object],[object Object]
+
+353
+[object Object],[object Object]
+18
+986
+DD,EE,JJ,CC
+[object Object],[object Object],[object Object],[object Object]
+
+360
+[object Object],[object Object]
+20
+1344
+DD,EE,JJ,HH
+[object Object],[object Object]
+
+362
+[object Object],[object Object]
+18
+1344
+DD,EE,JJ,HH
+[object Object],[object Object],[object Object]
+
+356
+[object Object],[object Object]
+15
+1432
+DD,EE,JJ,CC,BB,HH
+[object Object],[object Object]
+
+364
+[object Object],[object Object]
+16
+1548
+DD,EE,JJ,HH,BB,CC
+[object Object],[object Object]
+
+363
+[object Object],[object Object]
+17
+1526
+DD,EE,JJ,HH,BB
+[object Object],[object Object]
+
+333
+[object Object],[object Object]
+15
+1542
+DD,EE,BB,HH,JJ,CC
+[object Object],[object Object]
+
+365
+[object Object],[object Object]
+15
+1548
+DD,EE,JJ,HH,BB,CC
+[object Object],[object Object]
+
+366
+[object Object],[object Object]
+14
+1548
+DD,EE,JJ,HH,BB,CC
+[object Object],[object Object]
+
+367
+[object Object],[object Object]
+13
+1548
+DD,EE,JJ,HH,BB,CC
+,[object Object]
+
+368
+[object Object],[object Object]
+17
+1370
+DD,EE,JJ,HH,CC
+[object Object],[object Object]
+
+369
+[object Object],[object Object]
+16
+1500
+DD,EE,JJ,HH,CC,BB
+[object Object],[object Object]
+
+371
+[object Object],[object Object]
+14
+1500
+DD,EE,JJ,HH,CC,BB
+[object Object],[object Object]
+
+372
+[object Object],[object Object]
+13
+1500
+DD,EE,JJ,HH,CC,BB
+[object Object],[object Object]
+
+373
+[object Object],[object Object]
+12
+1500
+DD,EE,JJ,HH,CC,BB
+,[object Object]
+
+374
+[object Object],[object Object]
+21
+1182
+DD,EE,JJ,BB
+[object Object],[object Object]
+
+375
+[object Object],[object Object]
+20
+1182
+DD,EE,JJ,BB
+[object Object],[object Object]
+
+377
+[object Object],[object Object]
+18
+1182
+DD,EE,JJ,BB
+[object Object],[object Object],[object Object]
+
+378
+[object Object],[object Object]
+17
+1208
+DD,EE,JJ,BB,CC
+[object Object],[object Object]
+
+361
+[object Object],[object Object]
+19
+1344
+DD,EE,JJ,HH
+[object Object],[object Object]
+
+379
+[object Object],[object Object]
+16
+1428
+DD,EE,JJ,BB,CC,HH
+[object Object],[object Object]
+
+370
+[object Object],[object Object]
+15
+1500
+DD,EE,JJ,HH,CC,BB
+[object Object],[object Object]
+
+376
+[object Object],[object Object]
+19
+1182
+DD,EE,JJ,BB
+[object Object],[object Object]
+
+380
+[object Object],[object Object]
+15
+1428
+DD,EE,JJ,BB,CC,HH
+[object Object],[object Object]
+
+381
+[object Object],[object Object]
+14
+1428
+DD,EE,JJ,BB,CC,HH
+[object Object],[object Object]
+
+382
+[object Object],[object Object]
+13
+1428
+DD,EE,JJ,BB,CC,HH
+[object Object],[object Object]
+
+383
+[object Object],[object Object]
+12
+1428
+DD,EE,JJ,BB,CC,HH
+,[object Object]
+
+384
+[object Object],[object Object]
+17
+1402
+DD,EE,JJ,BB,HH
+[object Object],[object Object]
+
+388
+[object Object],[object Object]
+22
+945
+DD,EE,HH
+[object Object],[object Object],[object Object],[object Object]
+
+387
+[object Object],[object Object]
+14
+1432
+DD,EE,JJ,BB,HH,CC
+[object Object],
+
+390
+[object Object],[object Object]
+20
+983
+DD,EE,HH,CC
+[object Object],[object Object]
+
+391
+[object Object],[object Object]
+19
+983
+DD,EE,HH,CC
+[object Object],[object Object]
+
+386
+[object Object],[object Object]
+15
+1432
+DD,EE,JJ,BB,HH,CC
+[object Object],[object Object]
+
+393
+[object Object],[object Object]
+17
+1191
+DD,EE,HH,CC,BB
+[object Object],[object Object]
+
+392
+[object Object],[object Object]
+18
+983
+DD,EE,HH,CC
+[object Object],[object Object],[object Object]
+
+385
+[object Object],[object Object]
+16
+1432
+DD,EE,JJ,BB,HH,CC
+[object Object],[object Object]
+
+389
+[object Object],[object Object]
+21
+983
+DD,EE,HH,CC
+[object Object],[object Object]
+
+395
+[object Object],[object Object]
+15
+1380
+DD,EE,HH,CC,BB,JJ
+[object Object],
+
+396
+[object Object],[object Object]
+17
+1256
+DD,EE,HH,CC,JJ
+[object Object],[object Object]
+
+397
+[object Object],[object Object]
+16
+1386
+DD,EE,HH,CC,JJ,BB
+[object Object],[object Object]
+
+398
+[object Object],[object Object]
+15
+1386
+DD,EE,HH,CC,JJ,BB
+[object Object],[object Object]
+
+399
+[object Object],[object Object]
+14
+1386
+DD,EE,HH,CC,JJ,BB
+[object Object],[object Object]
+
+401
+[object Object],[object Object]
+12
+1386
+DD,EE,HH,CC,JJ,BB
+[object Object],
+
+403
+[object Object],[object Object]
+20
+1179
+DD,EE,HH,BB
+[object Object],[object Object]
+
+404
+[object Object],[object Object]
+19
+1179
+DD,EE,HH,BB
+[object Object],[object Object]
+
+405
+[object Object],[object Object]
+18
+1179
+DD,EE,HH,BB
+[object Object],[object Object]
+
+406
+[object Object],[object Object]
+17
+1179
+DD,EE,HH,BB
+[object Object],[object Object],[object Object],[object Object]
+
+402
+[object Object],[object Object]
+21
+1179
+DD,EE,HH,BB
+[object Object],[object Object]
+
+408
+[object Object],[object Object]
+15
+1474
+DD,EE,HH,BB,CC,JJ
+[object Object],[object Object]
+
+394
+[object Object],[object Object]
+16
+1380
+DD,EE,HH,CC,BB,JJ
+[object Object],[object Object]
+
+410
+[object Object],[object Object]
+13
+1474
+DD,EE,HH,BB,CC,JJ
+[object Object],[object Object]
+
+411
+[object Object],[object Object]
+12
+1474
+DD,EE,HH,BB,CC,JJ
+[object Object],
+
+412
+[object Object],[object Object]
+21
+1302
+DD,EE,HH,JJ
+[object Object],[object Object]
+
+413
+[object Object],[object Object]
+20
+1302
+DD,EE,HH,JJ
+[object Object],[object Object]
+
+414
+[object Object],[object Object]
+19
+1302
+DD,EE,HH,JJ
+[object Object],[object Object]
+
+415
+[object Object],[object Object]
+18
+1302
+DD,EE,HH,JJ
+[object Object],[object Object]
+
+416
+[object Object],[object Object]
+17
+1302
+DD,EE,HH,JJ
+[object Object],[object Object],[object Object]
+
+417
+[object Object],[object Object]
+16
+1324
+DD,EE,HH,JJ,CC
+[object Object],[object Object]
+
+418
+[object Object],[object Object]
+15
+1480
+DD,EE,HH,JJ,CC,BB
+[object Object],[object Object]
+
+419
+[object Object],[object Object]
+14
+1480
+DD,EE,HH,JJ,CC,BB
+[object Object],[object Object]
+
+420
+[object Object],[object Object]
+13
+1480
+DD,EE,HH,JJ,CC,BB
+[object Object],[object Object]
+
+400
+[object Object],[object Object]
+13
+1386
+DD,EE,HH,CC,JJ,BB
+[object Object],[object Object]
+
+422
+[object Object],[object Object]
+11
+1480
+DD,EE,HH,JJ,CC,BB
+[object Object],
+
+423
+[object Object],[object Object]
+16
+1432
+DD,EE,HH,JJ,BB
+[object Object],[object Object]
+
+424
+[object Object],[object Object]
+15
+1454
+DD,EE,HH,JJ,BB,CC
+[object Object],[object Object]
+
+425
+[object Object],[object Object]
+14
+1454
+DD,EE,HH,JJ,BB,CC
+[object Object],[object Object]
+
+426
+[object Object],[object Object]
+13
+1454
+DD,EE,HH,JJ,BB,CC
+[object Object],[object Object]
+
+427
+[object Object],[object Object]
+12
+1454
+DD,EE,HH,JJ,BB,CC
+[object Object],[object Object]
+
+428
+[object Object],[object Object]
+11
+1454
+DD,EE,HH,JJ,BB,CC
+[object Object],[object Object]
+
+429
+[object Object],[object Object]
+10
+1454
+DD,EE,HH,JJ,BB,CC
+[object Object],
+
+430
+[object Object],[object Object]
+25
+963
+DD,JJ
+[object Object],[object Object]
+
+421
+[object Object],[object Object]
+12
+1480
+DD,EE,HH,JJ,CC,BB
+[object Object],[object Object]
+
+432
+[object Object],[object Object]
+23
+963
+DD,JJ
+[object Object],[object Object],[object Object],[object Object],[object Object]
+
+433
+[object Object],[object Object]
+22
+1005
+DD,JJ,CC
+[object Object],[object Object],[object Object],[object Object]
+
+434
+[object Object],[object Object]
+21
+1239
+DD,JJ,CC,BB
+[object Object],[object Object]
+
+435
+[object Object],[object Object]
+20
+1239
+DD,JJ,CC,BB
+[object Object],[object Object],[object Object]
+
+436
+[object Object],[object Object]
+19
+1290
+DD,JJ,CC,BB,EE
+[object Object],[object Object]
+
+409
+[object Object],[object Object]
+14
+1474
+DD,EE,HH,BB,CC,JJ
+[object Object],[object Object]
+
+438
+[object Object],[object Object]
+17
+1290
+DD,JJ,CC,BB,EE
+[object Object],[object Object]
+
+437
+[object Object],[object Object]
+18
+1290
+DD,JJ,CC,BB,EE
+[object Object],[object Object]
+
+440
+[object Object],[object Object]
+19
+1547
+DD,JJ,CC,BB,HH
+[object Object],[object Object]
+
+441
+[object Object],[object Object]
+18
+1547
+DD,JJ,CC,BB,HH
+[object Object],[object Object]
+
+439
+[object Object],[object Object]
+16
+1510
+DD,JJ,CC,BB,EE,HH
+,[object Object]
+
+443
+[object Object],[object Object]
+16
+1586
+DD,JJ,CC,BB,HH,EE
+[object Object],[object Object]
+
+431
+[object Object],[object Object]
+24
+963
+DD,JJ
+[object Object],[object Object]
+
+445
+[object Object],[object Object]
+14
+1586
+DD,JJ,CC,BB,HH,EE
+[object Object],[object Object]
+
+446
+[object Object],[object Object]
+13
+1586
+DD,JJ,CC,BB,HH,EE
+,[object Object]
+
+447
+[object Object],[object Object]
+21
+1056
+DD,JJ,CC,EE
+[object Object],[object Object]
+
+442
+[object Object],[object Object]
+17
+1547
+DD,JJ,CC,BB,HH
+[object Object],[object Object]
+
+449
+[object Object],[object Object]
+19
+1290
+DD,JJ,CC,EE,BB
+[object Object],[object Object]
+
+450
+[object Object],[object Object]
+18
+1290
+DD,JJ,CC,EE,BB
+[object Object],[object Object]
+
+448
+[object Object],[object Object]
+20
+1056
+DD,JJ,CC,EE
+[object Object],[object Object],[object Object]
+
+407
+[object Object],[object Object]
+16
+1474
+DD,EE,HH,BB,CC,JJ
+[object Object],[object Object]
+
+453
+[object Object],[object Object]
+19
+1364
+DD,JJ,CC,EE,HH
+[object Object],[object Object]
+
+454
+[object Object],[object Object]
+18
+1364
+DD,JJ,CC,EE,HH
+[object Object],[object Object]
+
+455
+[object Object],[object Object]
+17
+1364
+DD,JJ,CC,EE,HH
+[object Object],[object Object]
+
+456
+[object Object],[object Object]
+16
+1364
+DD,JJ,CC,EE,HH
+[object Object],[object Object]
+
+457
+[object Object],[object Object]
+15
+1520
+DD,JJ,CC,EE,HH,BB
+[object Object],[object Object]
+
+458
+[object Object],[object Object]
+14
+1520
+DD,JJ,CC,EE,HH,BB
+[object Object],[object Object]
+
+459
+[object Object],[object Object]
+13
+1520
+DD,JJ,CC,EE,HH,BB
+,[object Object]
+
+460
+[object Object],[object Object]
+21
+1313
+DD,JJ,CC,HH
+[object Object],[object Object]
+
+461
+[object Object],[object Object]
+20
+1313
+DD,JJ,CC,HH
+[object Object],[object Object],[object Object]
+
+462
+[object Object],[object Object]
+19
+1547
+DD,JJ,CC,HH,BB
+[object Object],[object Object]
+
+463
+[object Object],[object Object]
+18
+1547
+DD,JJ,CC,HH,BB
+[object Object],[object Object]
+
+464
+[object Object],[object Object]
+17
+1547
+DD,JJ,CC,HH,BB
+[object Object],[object Object]
+
+465
+[object Object],[object Object]
+16
+1586
+DD,JJ,CC,HH,BB,EE
+[object Object],[object Object]
+
+466
+[object Object],[object Object]
+15
+1586
+DD,JJ,CC,HH,BB,EE
+[object Object],[object Object]
+
+444
+[object Object],[object Object]
+15
+1586
+DD,JJ,CC,BB,HH,EE
+[object Object],[object Object]
+
+467
+[object Object],[object Object]
+14
+1586
+DD,JJ,CC,HH,BB,EE
+[object Object],[object Object]
+
+452
+[object Object],[object Object]
+16
+1510
+DD,JJ,CC,EE,BB,HH
+[object Object],
+
+468
+[object Object],[object Object]
+13
+1586
+DD,JJ,CC,HH,BB,EE
+[object Object],
+
+471
+[object Object],[object Object]
+17
+1364
+DD,JJ,CC,HH,EE
+[object Object],[object Object]
+
+472
+[object Object],[object Object]
+16
+1364
+DD,JJ,CC,HH,EE
+[object Object],[object Object]
+
+451
+[object Object],[object Object]
+17
+1290
+DD,JJ,CC,EE,BB
+[object Object],[object Object]
+
+474
+[object Object],[object Object]
+14
+1520
+DD,JJ,CC,HH,EE,BB
+[object Object],[object Object]
+
+475
+[object Object],[object Object]
+13
+1520
+DD,JJ,CC,HH,EE,BB
+[object Object],
+
+476
+[object Object],[object Object]
+22
+1026
+DD,JJ,EE
+[object Object],[object Object],[object Object],[object Object]
+
+477
+[object Object],[object Object]
+21
+1260
+DD,JJ,EE,BB
+[object Object],[object Object]
+
+473
+[object Object],[object Object]
+15
+1520
+DD,JJ,CC,HH,EE,BB
+[object Object],[object Object]
+
+479
+[object Object],[object Object]
+19
+1294
+DD,JJ,EE,BB,CC
+[object Object],[object Object]
+
+480
+[object Object],[object Object]
+18
+1294
+DD,JJ,EE,BB,CC
+[object Object],[object Object]
+
+470
+[object Object],[object Object]
+18
+1364
+DD,JJ,CC,HH,EE
+[object Object],[object Object]
+
+481
+[object Object],[object Object]
+17
+1294
+DD,JJ,EE,BB,CC
+[object Object],[object Object]
+
+482
+[object Object],[object Object]
+16
+1514
+DD,JJ,EE,BB,CC,HH
+,[object Object]
+
+484
+[object Object],[object Object]
+18
+1612
+DD,JJ,EE,BB,HH
+[object Object],[object Object]
+
+485
+[object Object],[object Object]
+17
+1612
+DD,JJ,EE,BB,HH
+[object Object],[object Object]
+
+486
+[object Object],[object Object]
+16
+1642
+DD,JJ,EE,BB,HH,CC
+[object Object],[object Object]
+
+487
+[object Object],[object Object]
+15
+1642
+DD,JJ,EE,BB,HH,CC
+,[object Object]
+
+478
+[object Object],[object Object]
+20
+1260
+DD,JJ,EE,BB
+[object Object],[object Object],[object Object]
+
+489
+[object Object],[object Object]
+20
+1060
+DD,JJ,EE,CC
+[object Object],[object Object],[object Object]
+
+490
+[object Object],[object Object]
+19
+1412
+DD,JJ,EE,CC,HH
+[object Object],[object Object]
+
+491
+[object Object],[object Object]
+18
+1412
+DD,JJ,EE,CC,HH
+[object Object],[object Object]
+
+492
+[object Object],[object Object]
+17
+1412
+DD,JJ,EE,CC,HH
+[object Object],[object Object]
+
+488
+[object Object],[object Object]
+21
+1060
+DD,JJ,EE,CC
+[object Object],[object Object]
+
+494
+[object Object],[object Object]
+15
+1594
+DD,JJ,EE,CC,HH,BB
+,[object Object]
+
+495
+[object Object],[object Object]
+19
+1268
+DD,JJ,EE,CC,BB
+[object Object],[object Object]
+
+483
+[object Object],[object Object]
+19
+1612
+DD,JJ,EE,BB,HH
+[object Object],[object Object]
+
+496
+[object Object],[object Object]
+18
+1268
+DD,JJ,EE,CC,BB
+[object Object],[object Object]
+
+498
+[object Object],[object Object]
+16
+1268
+DD,JJ,EE,CC,BB
+[object Object],[object Object]
+
+499
+[object Object],[object Object]
+15
+1488
+DD,JJ,EE,CC,BB,HH
+,[object Object]
+
+500
+[object Object],[object Object]
+21
+1334
+DD,JJ,EE,HH
+[object Object],[object Object]
+
+501
+[object Object],[object Object]
+20
+1334
+DD,JJ,EE,HH
+[object Object],[object Object],[object Object]
+
+469
+[object Object],[object Object]
+19
+1364
+DD,JJ,CC,HH,EE
+[object Object],[object Object]
+
+493
+[object Object],[object Object]
+16
+1412
+DD,JJ,EE,CC,HH
+[object Object],[object Object]
+
+502
+[object Object],[object Object]
+19
+1368
+DD,JJ,EE,HH,CC
+[object Object],[object Object]
+
+505
+[object Object],[object Object]
+16
+1368
+DD,JJ,EE,HH,CC
+[object Object],[object Object]
+
+503
+[object Object],[object Object]
+18
+1368
+DD,JJ,EE,HH,CC
+[object Object],[object Object]
+
+507
+[object Object],[object Object]
+14
+1550
+DD,JJ,EE,HH,CC,BB
+[object Object],[object Object]
+
+497
+[object Object],[object Object]
+17
+1268
+DD,JJ,EE,CC,BB
+[object Object],[object Object]
+
+506
+[object Object],[object Object]
+15
+1550
+DD,JJ,EE,HH,CC,BB
+[object Object],[object Object]
+
+504
+[object Object],[object Object]
+17
+1368
+DD,JJ,EE,HH,CC
+[object Object],[object Object]
+
+511
+[object Object],[object Object]
+17
+1542
+DD,JJ,EE,HH,BB
+[object Object],[object Object]
+
+512
+[object Object],[object Object]
+16
+1542
+DD,JJ,EE,HH,BB
+[object Object],[object Object]
+
+513
+[object Object],[object Object]
+15
+1542
+DD,JJ,EE,HH,BB
+[object Object],[object Object]
+
+514
+[object Object],[object Object]
+14
+1568
+DD,JJ,EE,HH,BB,CC
+[object Object],[object Object]
+
+510
+[object Object],[object Object]
+18
+1542
+DD,JJ,EE,HH,BB
+[object Object],[object Object]
+
+516
+[object Object],[object Object]
+22
+1223
+DD,JJ,BB
+[object Object],[object Object],[object Object],[object Object]
+
+517
+[object Object],[object Object]
+21
+1257
+DD,JJ,BB,CC
+[object Object],[object Object]
+
+518
+[object Object],[object Object]
+20
+1257
+DD,JJ,BB,CC
+[object Object],[object Object]
+
+519
+[object Object],[object Object]
+19
+1257
+DD,JJ,BB,CC
+[object Object],[object Object],[object Object]
+
+520
+[object Object],[object Object]
+18
+1302
+DD,JJ,BB,CC,EE
+[object Object],[object Object]
+
+521
+[object Object],[object Object]
+17
+1302
+DD,JJ,BB,CC,EE
+[object Object],[object Object]
+
+522
+[object Object],[object Object]
+16
+1302
+DD,JJ,BB,CC,EE
+[object Object],[object Object]
+
+523
+[object Object],[object Object]
+15
+1522
+DD,JJ,BB,CC,EE,HH
+[object Object],[object Object]
+
+509
+[object Object],[object Object]
+19
+1542
+DD,JJ,EE,HH,BB
+[object Object],[object Object]
+
+525
+[object Object],[object Object]
+18
+1521
+DD,JJ,BB,CC,HH
+[object Object],[object Object]
+
+526
+[object Object],[object Object]
+17
+1521
+DD,JJ,BB,CC,HH
+[object Object],[object Object]
+
+527
+[object Object],[object Object]
+16
+1521
+DD,JJ,BB,CC,HH
+[object Object],[object Object]
+
+528
+[object Object],[object Object]
+15
+1560
+DD,JJ,BB,CC,HH,EE
+[object Object],[object Object]
+
+508
+[object Object],[object Object]
+13
+1550
+DD,JJ,EE,HH,CC,BB
+,
+
+530
+[object Object],[object Object]
+13
+1560
+DD,JJ,BB,CC,HH,EE
+[object Object],[object Object]
+
+529
+[object Object],[object Object]
+14
+1560
+DD,JJ,BB,CC,HH,EE
+[object Object],[object Object]
+
+532
+[object Object],[object Object]
+21
+1274
+DD,JJ,BB,EE
+[object Object],[object Object]
+
+533
+[object Object],[object Object]
+20
+1274
+DD,JJ,BB,EE
+[object Object],[object Object]
+
+534
+[object Object],[object Object]
+19
+1274
+DD,JJ,BB,EE
+[object Object],[object Object],[object Object]
+
+535
+[object Object],[object Object]
+18
+1308
+DD,JJ,BB,EE,CC
+[object Object],[object Object]
+
+536
+[object Object],[object Object]
+17
+1308
+DD,JJ,BB,EE,CC
+[object Object],[object Object]
+
+531
+[object Object],[object Object]
+12
+1560
+DD,JJ,BB,CC,HH,EE
+[object Object],
+
+524
+[object Object],[object Object]
+14
+1522
+DD,JJ,BB,CC,EE,HH
+,[object Object]
+
+539
+[object Object],[object Object]
+17
+1538
+DD,JJ,BB,EE,HH
+[object Object],[object Object]
+
+540
+[object Object],[object Object]
+16
+1538
+DD,JJ,BB,EE,HH
+[object Object],[object Object]
+
+541
+[object Object],[object Object]
+15
+1564
+DD,JJ,BB,EE,HH,CC
+[object Object],[object Object]
+
+515
+[object Object],[object Object]
+13
+1568
+DD,JJ,EE,HH,BB,CC
+[object Object],
+
+543
+[object Object],[object Object]
+13
+1564
+DD,JJ,BB,EE,HH,CC
+[object Object],[object Object]
+
+544
+[object Object],[object Object]
+12
+1564
+DD,JJ,BB,EE,HH,CC
+[object Object],
+
+545
+[object Object],[object Object]
+21
+1531
+DD,JJ,BB,HH
+[object Object],[object Object]
+
+546
+[object Object],[object Object]
+20
+1531
+DD,JJ,BB,HH
+[object Object],[object Object]
+
+542
+[object Object],[object Object]
+14
+1564
+DD,JJ,BB,EE,HH,CC
+[object Object],[object Object]
+
+548
+[object Object],[object Object]
+18
+1565
+DD,JJ,BB,HH,CC
+[object Object],[object Object]
+
+549
+[object Object],[object Object]
+17
+1565
+DD,JJ,BB,HH,CC
+[object Object],[object Object]
+
+550
+[object Object],[object Object]
+16
+1565
+DD,JJ,BB,HH,CC
+[object Object],[object Object]
+
+551
+[object Object],[object Object]
+15
+1604
+DD,JJ,BB,HH,CC,EE
+[object Object],[object Object]
+
+552
+[object Object],[object Object]
+14
+1604
+DD,JJ,BB,HH,CC,EE
+[object Object],[object Object]
+
+553
+[object Object],[object Object]
+13
+1604
+DD,JJ,BB,HH,CC,EE
+[object Object],
+
+554
+[object Object],[object Object]
+18
+1576
+DD,JJ,BB,HH,EE
+[object Object],[object Object]
+
+555
+[object Object],[object Object]
+17
+1576
+DD,JJ,BB,HH,EE
+[object Object],[object Object]
+
+537
+[object Object],[object Object]
+16
+1308
+DD,JJ,BB,EE,CC
+[object Object],[object Object]
+
+557
+[object Object],[object Object]
+15
+1576
+DD,JJ,BB,HH,EE
+[object Object],[object Object]
+
+558
+[object Object],[object Object]
+14
+1576
+DD,JJ,BB,HH,EE
+[object Object],[object Object]
+
+559
+[object Object],[object Object]
+13
+1598
+DD,JJ,BB,HH,EE,CC
+[object Object],
+
+560
+[object Object],[object Object]
+22
+1359
+DD,JJ,HH
+[object Object],[object Object],[object Object],[object Object]
+
+561
+[object Object],[object Object]
+21
+1593
+DD,JJ,HH,BB
+[object Object],[object Object]
+
+562
+[object Object],[object Object]
+20
+1593
+DD,JJ,HH,BB
+[object Object],[object Object]
+
+563
+[object Object],[object Object]
+19
+1593
+DD,JJ,HH,BB
+[object Object],[object Object]
+
+564
+[object Object],[object Object]
+18
+1593
+DD,JJ,HH,BB
+[object Object],[object Object]
+
+565
+[object Object],[object Object]
+17
+1593
+DD,JJ,HH,BB
+[object Object],[object Object],[object Object],[object Object]
+
+566
+[object Object],[object Object]
+16
+1662
+DD,JJ,HH,BB,EE,CC
+[object Object],[object Object]
+
+567
+[object Object],[object Object]
+15
+1662
+DD,JJ,HH,BB,EE,CC
+[object Object],[object Object]
+
+556
+[object Object],[object Object]
+16
+1576
+DD,JJ,BB,HH,EE
+[object Object],[object Object]
+
+547
+[object Object],[object Object]
+19
+1531
+DD,JJ,BB,HH
+[object Object],[object Object],[object Object]
+
+570
+[object Object],[object Object]
+20
+1393
+DD,JJ,HH,CC
+[object Object],[object Object]
+
+571
+[object Object],[object Object]
+19
+1393
+DD,JJ,HH,CC
+[object Object],[object Object]
+
+572
+[object Object],[object Object]
+18
+1393
+DD,JJ,HH,CC
+[object Object],[object Object]
+
+573
+[object Object],[object Object]
+17
+1393
+DD,JJ,HH,CC
+[object Object],[object Object],[object Object]
+
+574
+[object Object],[object Object]
+16
+1432
+DD,JJ,HH,CC,EE
+[object Object],[object Object]
+
+575
+[object Object],[object Object]
+15
+1614
+DD,JJ,HH,CC,EE,BB
+[object Object],[object Object]
+
+576
+[object Object],[object Object]
+14
+1614
+DD,JJ,HH,CC,EE,BB
+[object Object],[object Object]
+
+577
+[object Object],[object Object]
+13
+1614
+DD,JJ,HH,CC,EE,BB
+[object Object],
+
+569
+[object Object],[object Object]
+21
+1393
+DD,JJ,HH,CC
+[object Object],[object Object]
+
+579
+[object Object],[object Object]
+15
+1562
+DD,JJ,HH,CC,BB,EE
+[object Object],[object Object]
+
+580
+[object Object],[object Object]
+14
+1562
+DD,JJ,HH,CC,BB,EE
+[object Object],[object Object]
+
+581
+[object Object],[object Object]
+13
+1562
+DD,JJ,HH,CC,BB,EE
+[object Object],[object Object]
+
+582
+[object Object],[object Object]
+12
+1562
+DD,JJ,HH,CC,BB,EE
+[object Object],
+
+568
+[object Object],[object Object]
+14
+1662
+DD,JJ,HH,BB,EE,CC
+[object Object],
+
+584
+[object Object],[object Object]
+20
+1410
+DD,JJ,HH,EE
+[object Object],[object Object]
+
+585
+[object Object],[object Object]
+19
+1410
+DD,JJ,HH,EE
+[object Object],[object Object]
+
+586
+[object Object],[object Object]
+18
+1410
+DD,JJ,HH,EE
+[object Object],[object Object]
+
+583
+[object Object],[object Object]
+21
+1410
+DD,JJ,HH,EE
+[object Object],[object Object]
+
+588
+[object Object],[object Object]
+16
+1432
+DD,JJ,HH,EE,CC
+[object Object],[object Object]
+
+589
+[object Object],[object Object]
+15
+1588
+DD,JJ,HH,EE,CC,BB
+[object Object],[object Object]
+
+578
+[object Object],[object Object]
+16
+1523
+DD,JJ,HH,CC,BB
+[object Object],[object Object]
+
+587
+[object Object],[object Object]
+17
+1410
+DD,JJ,HH,EE
+[object Object],[object Object],[object Object]
+
+591
+[object Object],[object Object]
+13
+1588
+DD,JJ,HH,EE,CC,BB
+[object Object],[object Object]
+
+592
+[object Object],[object Object]
+12
+1588
+DD,JJ,HH,EE,CC,BB
+[object Object],[object Object]
+
+594
+[object Object],[object Object]
+16
+1540
+DD,JJ,HH,EE,BB
+[object Object],[object Object]
+
+595
+[object Object],[object Object]
+15
+1566
+DD,JJ,HH,EE,BB,CC
+[object Object],[object Object]
+
+596
+[object Object],[object Object]
+14
+1566
+DD,JJ,HH,EE,BB,CC
+[object Object],[object Object]
+
+593
+[object Object],[object Object]
+11
+1588
+DD,JJ,HH,EE,CC,BB
+[object Object],
+
+538
+[object Object],[object Object]
+18
+1538
+DD,JJ,BB,EE,HH
+[object Object],[object Object]
+
+590
+[object Object],[object Object]
+14
+1588
+DD,JJ,HH,EE,CC,BB
+[object Object],[object Object]
+
+600
+[object Object],[object Object]
+24
+920
+DD,HH
+[object Object],[object Object]
+
+601
+[object Object],[object Object]
+23
+920
+DD,HH
+[object Object],[object Object],[object Object],[object Object],[object Object]
+
+602
+[object Object],[object Object]
+22
+962
+DD,HH,CC
+[object Object],[object Object]
+
+603
+[object Object],[object Object]
+21
+962
+DD,HH,CC
+[object Object],[object Object]
+
+597
+[object Object],[object Object]
+13
+1566
+DD,JJ,HH,EE,BB,CC
+[object Object],[object Object]
+
+605
+[object Object],[object Object]
+19
+1196
+DD,HH,CC,BB
+[object Object],[object Object],[object Object]
+
+606
+[object Object],[object Object]
+18
+1241
+DD,HH,CC,BB,EE
+[object Object],[object Object]
+
+607
+[object Object],[object Object]
+17
+1241
+DD,HH,CC,BB,EE
+[object Object],[object Object]
+
+599
+[object Object],[object Object]
+25
+920
+DD,HH
+[object Object],[object Object]
+
+609
+[object Object],[object Object]
+15
+1514
+DD,HH,CC,BB,EE,JJ
+[object Object],[object Object]
+
+610
+[object Object],[object Object]
+14
+1514
+DD,HH,CC,BB,EE,JJ
+[object Object],
+
+611
+[object Object],[object Object]
+18
+1427
+DD,HH,CC,BB,JJ
+[object Object],[object Object]
+
+612
+[object Object],[object Object]
+17
+1427
+DD,HH,CC,BB,JJ
+[object Object],[object Object]
+
+613
+[object Object],[object Object]
+16
+1466
+DD,HH,CC,BB,JJ,EE
+[object Object],[object Object]
+
+614
+[object Object],[object Object]
+15
+1466
+DD,HH,CC,BB,JJ,EE
+[object Object],[object Object]
+
+615
+[object Object],[object Object]
+14
+1466
+DD,HH,CC,BB,JJ,EE
+[object Object],[object Object]
+
+616
+[object Object],[object Object]
+13
+1466
+DD,HH,CC,BB,JJ,EE
+[object Object],[object Object]
+
+604
+[object Object],[object Object]
+20
+962
+DD,HH,CC
+[object Object],[object Object],[object Object],[object Object]
+
+608
+[object Object],[object Object]
+16
+1514
+DD,HH,CC,BB,EE,JJ
+[object Object],[object Object]
+
+619
+[object Object],[object Object]
+18
+1169
+DD,HH,CC,EE,BB
+[object Object],[object Object]
+
+620
+[object Object],[object Object]
+17
+1169
+DD,HH,CC,EE,BB
+[object Object],[object Object]
+
+621
+[object Object],[object Object]
+16
+1169
+DD,HH,CC,EE,BB
+[object Object],[object Object]
+
+622
+[object Object],[object Object]
+15
+1400
+DD,HH,CC,EE,BB,JJ
+[object Object],[object Object]
+
+623
+[object Object],[object Object]
+14
+1400
+DD,HH,CC,EE,BB,JJ
+[object Object],[object Object]
+
+624
+[object Object],[object Object]
+13
+1400
+DD,HH,CC,EE,BB,JJ
+[object Object],[object Object]
+
+618
+[object Object],[object Object]
+19
+1013
+DD,HH,CC,EE
+[object Object],[object Object],[object Object]
+
+617
+[object Object],[object Object]
+12
+1466
+DD,HH,CC,BB,JJ,EE
+,[object Object]
+
+627
+[object Object],[object Object]
+18
+1244
+DD,HH,CC,EE,JJ
+[object Object],[object Object]
+
+628
+[object Object],[object Object]
+17
+1244
+DD,HH,CC,EE,JJ
+[object Object],[object Object]
+
+598
+[object Object],[object Object]
+12
+1566
+DD,JJ,HH,EE,BB,CC
+[object Object],
+
+630
+[object Object],[object Object]
+15
+1400
+DD,HH,CC,EE,JJ,BB
+[object Object],[object Object]
+
+625
+[object Object],[object Object]
+12
+1400
+DD,HH,CC,EE,BB,JJ
+[object Object],[object Object]
+
+629
+[object Object],[object Object]
+16
+1244
+DD,HH,CC,EE,JJ
+[object Object],[object Object]
+
+633
+[object Object],[object Object]
+12
+1400
+DD,HH,CC,EE,JJ,BB
+[object Object],[object Object]
+
+631
+[object Object],[object Object]
+14
+1400
+DD,HH,CC,EE,JJ,BB
+[object Object],[object Object]
+
+634
+[object Object],[object Object]
+11
+1400
+DD,HH,CC,EE,JJ,BB
+,[object Object]
+
+632
+[object Object],[object Object]
+13
+1400
+DD,HH,CC,EE,JJ,BB
+[object Object],[object Object]
+
+636
+[object Object],[object Object]
+18
+1322
+DD,HH,CC,JJ,EE
+[object Object],[object Object]
+
+638
+[object Object],[object Object]
+16
+1322
+DD,HH,CC,JJ,EE
+[object Object],[object Object]
+
+639
+[object Object],[object Object]
+15
+1322
+DD,HH,CC,JJ,EE
+[object Object],[object Object]
+
+640
+[object Object],[object Object]
+14
+1322
+DD,HH,CC,JJ,EE
+[object Object],[object Object]
+
+626
+[object Object],[object Object]
+11
+1400
+DD,HH,CC,EE,BB,JJ
+[object Object],
+
+642
+[object Object],[object Object]
+17
+1433
+DD,HH,CC,JJ,BB
+[object Object],[object Object]
+
+643
+[object Object],[object Object]
+16
+1433
+DD,HH,CC,JJ,BB
+[object Object],[object Object]
+
+641
+[object Object],[object Object]
+18
+1433
+DD,HH,CC,JJ,BB
+[object Object],[object Object]
+
+637
+[object Object],[object Object]
+17
+1322
+DD,HH,CC,JJ,EE
+[object Object],[object Object]
+
+646
+[object Object],[object Object]
+13
+1460
+DD,HH,CC,JJ,BB,EE
+[object Object],[object Object]
+
+647
+[object Object],[object Object]
+12
+1460
+DD,HH,CC,JJ,BB,EE
+[object Object],[object Object]
+
+648
+[object Object],[object Object]
+11
+1460
+DD,HH,CC,JJ,BB,EE
+[object Object],
+
+649
+[object Object],[object Object]
+22
+983
+DD,HH,EE
+[object Object],[object Object]
+
+650
+[object Object],[object Object]
+21
+983
+DD,HH,EE
+[object Object],[object Object]
+
+651
+[object Object],[object Object]
+20
+983
+DD,HH,EE
+[object Object],[object Object],[object Object],[object Object]
+
+652
+[object Object],[object Object]
+19
+1017
+DD,HH,EE,CC
+[object Object],[object Object],[object Object]
+
+635
+[object Object],[object Object]
+19
+1277
+DD,HH,CC,JJ
+[object Object],[object Object],[object Object]
+
+644
+[object Object],[object Object]
+15
+1433
+DD,HH,CC,JJ,BB
+[object Object],[object Object]
+
+655
+[object Object],[object Object]
+16
+1173
+DD,HH,EE,CC,BB
+[object Object],[object Object]
+
+656
+[object Object],[object Object]
+15
+1404
+DD,HH,EE,CC,BB,JJ
+[object Object],[object Object]
+
+657
+[object Object],[object Object]
+14
+1404
+DD,HH,EE,CC,BB,JJ
+[object Object],[object Object]
+
+658
+[object Object],[object Object]
+13
+1404
+DD,HH,EE,CC,BB,JJ
+[object Object],[object Object]
+
+659
+[object Object],[object Object]
+12
+1404
+DD,HH,EE,CC,BB,JJ
+[object Object],[object Object]
+
+660
+[object Object],[object Object]
+11
+1404
+DD,HH,EE,CC,BB,JJ
+[object Object],
+
+654
+[object Object],[object Object]
+17
+1173
+DD,HH,EE,CC,BB
+[object Object],[object Object]
+
+645
+[object Object],[object Object]
+14
+1433
+DD,HH,CC,JJ,BB
+[object Object],[object Object]
+
+663
+[object Object],[object Object]
+16
+1248
+DD,HH,EE,CC,JJ
+[object Object],[object Object]
+
+664
+[object Object],[object Object]
+15
+1430
+DD,HH,EE,CC,JJ,BB
+[object Object],[object Object]
+
+665
+[object Object],[object Object]
+14
+1430
+DD,HH,EE,CC,JJ,BB
+[object Object],[object Object]
+
+666
+[object Object],[object Object]
+13
+1430
+DD,HH,EE,CC,JJ,BB
+,[object Object]
+
+653
+[object Object],[object Object]
+18
+1173
+DD,HH,EE,CC,BB
+[object Object],[object Object]
+
+668
+[object Object],[object Object]
+18
+1217
+DD,HH,EE,BB,CC
+[object Object],[object Object]
+
+669
+[object Object],[object Object]
+17
+1217
+DD,HH,EE,BB,CC
+[object Object],[object Object]
+
+670
+[object Object],[object Object]
+16
+1217
+DD,HH,EE,BB,CC
+[object Object],[object Object]
+
+671
+[object Object],[object Object]
+15
+1217
+DD,HH,EE,BB,CC
+[object Object],[object Object]
+
+661
+[object Object],[object Object]
+18
+1248
+DD,HH,EE,CC,JJ
+[object Object],[object Object]
+
+673
+[object Object],[object Object]
+13
+1448
+DD,HH,EE,BB,CC,JJ
+[object Object],[object Object]
+
+674
+[object Object],[object Object]
+12
+1448
+DD,HH,EE,BB,CC,JJ
+[object Object],
+
+675
+[object Object],[object Object]
+18
+1422
+DD,HH,EE,BB,JJ
+[object Object],[object Object]
+
+676
+[object Object],[object Object]
+17
+1422
+DD,HH,EE,BB,JJ
+[object Object],[object Object]
+
+677
+[object Object],[object Object]
+16
+1422
+DD,HH,EE,BB,JJ
+[object Object],[object Object]
+
+667
+[object Object],[object Object]
+19
+1191
+DD,HH,EE,BB
+[object Object],[object Object],[object Object]
+
+678
+[object Object],[object Object]
+15
+1422
+DD,HH,EE,BB,JJ
+[object Object],[object Object]
+
+680
+[object Object],[object Object]
+13
+1448
+DD,HH,EE,BB,JJ,CC
+[object Object],[object Object]
+
+681
+[object Object],[object Object]
+12
+1448
+DD,HH,EE,BB,JJ,CC
+,[object Object]
+
+672
+[object Object],[object Object]
+14
+1448
+DD,HH,EE,BB,CC,JJ
+[object Object],[object Object]
+
+683
+[object Object],[object Object]
+18
+1324
+DD,HH,EE,JJ,CC
+[object Object],[object Object]
+
+684
+[object Object],[object Object]
+17
+1324
+DD,HH,EE,JJ,CC
+[object Object],[object Object]
+
+685
+[object Object],[object Object]
+16
+1324
+DD,HH,EE,JJ,CC
+[object Object],[object Object]
+
+686
+[object Object],[object Object]
+15
+1324
+DD,HH,EE,JJ,CC
+[object Object],[object Object]
+
+687
+[object Object],[object Object]
+14
+1324
+DD,HH,EE,JJ,CC
+[object Object],[object Object]
+
+679
+[object Object],[object Object]
+14
+1448
+DD,HH,EE,BB,JJ,CC
+[object Object],[object Object]
+
+689
+[object Object],[object Object]
+12
+1454
+DD,HH,EE,JJ,CC,BB
+[object Object],
+
+690
+[object Object],[object Object]
+18
+1454
+DD,HH,EE,JJ,BB
+[object Object],[object Object]
+
+688
+[object Object],[object Object]
+13
+1454
+DD,HH,EE,JJ,CC,BB
+[object Object],[object Object]
+
+692
+[object Object],[object Object]
+16
+1454
+DD,HH,EE,JJ,BB
+[object Object],[object Object]
+
+693
+[object Object],[object Object]
+15
+1454
+DD,HH,EE,JJ,BB
+[object Object],[object Object]
+
+682
+[object Object],[object Object]
+19
+1298
+DD,HH,EE,JJ
+[object Object],[object Object],[object Object]
+
+695
+[object Object],[object Object]
+13
+1472
+DD,HH,EE,JJ,BB,CC
+[object Object],[object Object]
+
+696
+[object Object],[object Object]
+12
+1472
+DD,HH,EE,JJ,BB,CC
+[object Object],[object Object]
+
+694
+[object Object],[object Object]
+14
+1454
+DD,HH,EE,JJ,BB
+[object Object],[object Object]
+
+691
+[object Object],[object Object]
+17
+1454
+DD,HH,EE,JJ,BB
+[object Object],[object Object]
+
+699
+[object Object],[object Object]
+21
+1180
+DD,HH,BB
+[object Object],[object Object]
+
+698
+[object Object],[object Object]
+22
+1180
+DD,HH,BB
+[object Object],[object Object]
+
+701
+[object Object],[object Object]
+19
+1180
+DD,HH,BB
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+
+702
+[object Object],[object Object]
+18
+1259
+DD,HH,BB,CC,EE
+[object Object],[object Object]
+
+703
+[object Object],[object Object]
+17
+1259
+DD,HH,BB,CC,EE
+[object Object],[object Object]
+
+704
+[object Object],[object Object]
+16
+1259
+DD,HH,BB,CC,EE
+[object Object],[object Object]
+
+705
+[object Object],[object Object]
+15
+1490
+DD,HH,BB,CC,EE,JJ
+[object Object],[object Object]
+
+706
+[object Object],[object Object]
+14
+1490
+DD,HH,BB,CC,EE,JJ
+[object Object],
+
+707
+[object Object],[object Object]
+18
+1445
+DD,HH,BB,CC,JJ
+[object Object],[object Object]
+
+708
+[object Object],[object Object]
+17
+1445
+DD,HH,BB,CC,JJ
+[object Object],[object Object]
+
+700
+[object Object],[object Object]
+20
+1180
+DD,HH,BB
+[object Object],[object Object]
+
+710
+[object Object],[object Object]
+15
+1484
+DD,HH,BB,CC,JJ,EE
+[object Object],[object Object]
+
+711
+[object Object],[object Object]
+14
+1484
+DD,HH,BB,CC,JJ,EE
+[object Object],[object Object]
+
+712
+[object Object],[object Object]
+13
+1484
+DD,HH,BB,CC,JJ,EE
+[object Object],[object Object]
+
+713
+[object Object],[object Object]
+12
+1484
+DD,HH,BB,CC,JJ,EE
+,[object Object]
+
+662
+[object Object],[object Object]
+17
+1248
+DD,HH,EE,CC,JJ
+[object Object],[object Object]
+
+715
+[object Object],[object Object]
+17
+1456
+DD,HH,BB,EE,JJ
+[object Object],[object Object]
+
+716
+[object Object],[object Object]
+16
+1456
+DD,HH,BB,EE,JJ
+[object Object],[object Object]
+
+717
+[object Object],[object Object]
+15
+1456
+DD,HH,BB,EE,JJ
+[object Object],[object Object]
+
+718
+[object Object],[object Object]
+14
+1456
+DD,HH,BB,EE,JJ
+[object Object],[object Object]
+
+697
+[object Object],[object Object]
+11
+1472
+DD,HH,EE,JJ,BB,CC
+[object Object],
+
+714
+[object Object],[object Object]
+18
+1456
+DD,HH,BB,EE,JJ
+[object Object],[object Object]
+
+720
+[object Object],[object Object]
+12
+1478
+DD,HH,BB,EE,JJ,CC
+[object Object],[object Object]
+
+709
+[object Object],[object Object]
+16
+1445
+DD,HH,BB,CC,JJ
+[object Object],[object Object]
+
+722
+[object Object],[object Object]
+10
+1478
+DD,HH,BB,EE,JJ,CC
+,
+
+724
+[object Object],[object Object]
+21
+1319
+DD,HH,JJ
+[object Object],[object Object]
+
+725
+[object Object],[object Object]
+20
+1319
+DD,HH,JJ
+[object Object],[object Object]
+
+726
+[object Object],[object Object]
+19
+1319
+DD,HH,JJ
+[object Object],[object Object],[object Object],[object Object]
+
+727
+[object Object],[object Object]
+18
+1364
+DD,HH,JJ,EE
+[object Object],[object Object],[object Object]
+
+728
+[object Object],[object Object]
+17
+1546
+DD,HH,JJ,EE,BB
+[object Object],[object Object]
+
+729
+[object Object],[object Object]
+16
+1546
+DD,HH,JJ,EE,BB
+[object Object],[object Object]
+
+719
+[object Object],[object Object]
+13
+1478
+DD,HH,BB,EE,JJ,CC
+[object Object],[object Object]
+
+731
+[object Object],[object Object]
+14
+1546
+DD,HH,JJ,EE,BB
+[object Object],[object Object]
+
+732
+[object Object],[object Object]
+13
+1568
+DD,HH,JJ,EE,BB,CC
+,[object Object]
+
+733
+[object Object],[object Object]
+17
+1390
+DD,HH,JJ,EE,CC
+[object Object],[object Object]
+
+734
+[object Object],[object Object]
+16
+1390
+DD,HH,JJ,EE,CC
+[object Object],[object Object]
+
+735
+[object Object],[object Object]
+15
+1390
+DD,HH,JJ,EE,CC
+[object Object],[object Object]
+
+736
+[object Object],[object Object]
+14
+1390
+DD,HH,JJ,EE,CC
+[object Object],[object Object]
+
+721
+[object Object],[object Object]
+11
+1478
+DD,HH,BB,EE,JJ,CC
+[object Object],[object Object]
+
+738
+[object Object],[object Object]
+12
+1520
+DD,HH,JJ,EE,CC,BB
+,[object Object]
+
+737
+[object Object],[object Object]
+13
+1520
+DD,HH,JJ,EE,CC,BB
+[object Object],[object Object]
+
+740
+[object Object],[object Object]
+17
+1527
+DD,HH,JJ,CC,BB
+[object Object],[object Object]
+
+741
+[object Object],[object Object]
+16
+1527
+DD,HH,JJ,CC,BB
+[object Object],[object Object]
+
+742
+[object Object],[object Object]
+15
+1527
+DD,HH,JJ,CC,BB
+[object Object],[object Object]
+
+730
+[object Object],[object Object]
+15
+1546
+DD,HH,JJ,EE,BB
+[object Object],[object Object]
+
+744
+[object Object],[object Object]
+13
+1527
+DD,HH,JJ,CC,BB
+[object Object],[object Object]
+
+743
+[object Object],[object Object]
+14
+1527
+DD,HH,JJ,CC,BB
+[object Object],[object Object]
+
+746
+[object Object],[object Object]
+17
+1384
+DD,HH,JJ,CC,EE
+[object Object],[object Object]
+
+747
+[object Object],[object Object]
+16
+1384
+DD,HH,JJ,CC,EE
+[object Object],[object Object]
+
+748
+[object Object],[object Object]
+15
+1384
+DD,HH,JJ,CC,EE
+[object Object],[object Object]
+
+749
+[object Object],[object Object]
+14
+1384
+DD,HH,JJ,CC,EE
+[object Object],[object Object]
+
+750
+[object Object],[object Object]
+13
+1384
+DD,HH,JJ,CC,EE
+[object Object],[object Object]
+
+751
+[object Object],[object Object]
+12
+1384
+DD,HH,JJ,CC,EE
+[object Object],[object Object]
+
+752
+[object Object],[object Object]
+18
+1475
+DD,HH,JJ,BB
+[object Object],[object Object],[object Object]
+
+723
+[object Object],[object Object]
+22
+1319
+DD,HH,JJ
+[object Object],[object Object]
+
+754
+[object Object],[object Object]
+16
+1501
+DD,HH,JJ,BB,CC
+[object Object],[object Object]
+
+753
+[object Object],[object Object]
+17
+1501
+DD,HH,JJ,BB,CC
+[object Object],[object Object]
+
+739
+[object Object],[object Object]
+18
+1345
+DD,HH,JJ,CC
+[object Object],[object Object],[object Object]
+
+757
+[object Object],[object Object]
+13
+1501
+DD,HH,JJ,BB,CC
+[object Object],[object Object]
+
+758
+[object Object],[object Object]
+12
+1501
+DD,HH,JJ,BB,CC
+[object Object],[object Object]
+
+759
+[object Object],[object Object]
+11
+1528
+DD,HH,JJ,BB,CC,EE
+[object Object],
+
+760
+[object Object],[object Object]
+17
+1514
+DD,HH,JJ,BB,EE
+[object Object],[object Object]
+
+761
+[object Object],[object Object]
+16
+1514
+DD,HH,JJ,BB,EE
+[object Object],[object Object]
+
+762
+[object Object],[object Object]
+15
+1514
+DD,HH,JJ,BB,EE
+[object Object],[object Object]
+
+763
+[object Object],[object Object]
+14
+1514
+DD,HH,JJ,BB,EE
+[object Object],[object Object]
+
+764
+[object Object],[object Object]
+13
+1514
+DD,HH,JJ,BB,EE
+[object Object],[object Object]
+
+765
+[object Object],[object Object]
+12
+1514
+DD,HH,JJ,BB,EE
+[object Object],[object Object]
+
+766
+[object Object],[object Object]
+11
+1532
+DD,HH,JJ,BB,EE,CC
+[object Object],
+
+767
+[object Object],[object Object]
+25
+358
+BB,CC
+[object Object],[object Object]
+
+745
+[object Object],[object Object]
+12
+1554
+DD,HH,JJ,CC,BB,EE
+[object Object],
+
+768
+[object Object],[object Object]
+24
+358
+BB,CC
+[object Object],[object Object]
+
+770
+[object Object],[object Object]
+22
+758
+BB,CC,DD
+[object Object],[object Object],[object Object],[object Object]
+
+771
+[object Object],[object Object]
+21
+815
+BB,CC,DD,EE
+[object Object],[object Object]
+
+756
+[object Object],[object Object]
+14
+1501
+DD,HH,JJ,BB,CC
+[object Object],[object Object]
+
+773
+[object Object],[object Object]
+19
+815
+BB,CC,DD,EE
+[object Object],[object Object],[object Object]
+
+772
+[object Object],[object Object]
+20
+815
+BB,CC,DD,EE
+[object Object],[object Object]
+
+755
+[object Object],[object Object]
+15
+1501
+DD,HH,JJ,BB,CC
+[object Object],[object Object]
+
+774
+[object Object],[object Object]
+18
+1130
+BB,CC,DD,EE,JJ
+[object Object],[object Object]
+
+777
+[object Object],[object Object]
+15
+1438
+BB,CC,DD,EE,JJ,HH
+[object Object],[object Object]
+
+778
+[object Object],[object Object]
+14
+1438
+BB,CC,DD,EE,JJ,HH
+,[object Object]
+
+779
+[object Object],[object Object]
+18
+1123
+BB,CC,DD,EE,HH
+[object Object],[object Object]
+
+776
+[object Object],[object Object]
+16
+1438
+BB,CC,DD,EE,JJ,HH
+[object Object],[object Object]
+
+781
+[object Object],[object Object]
+16
+1396
+BB,CC,DD,EE,HH,JJ
+[object Object],[object Object]
+
+782
+[object Object],[object Object]
+15
+1396
+BB,CC,DD,EE,HH,JJ
+[object Object],[object Object]
+
+780
+[object Object],[object Object]
+17
+1396
+BB,CC,DD,EE,HH,JJ
+[object Object],[object Object]
+
+775
+[object Object],[object Object]
+17
+1438
+BB,CC,DD,EE,JJ,HH
+[object Object],[object Object]
+
+784
+[object Object],[object Object]
+13
+1396
+BB,CC,DD,EE,HH,JJ
+,[object Object]
+
+786
+[object Object],[object Object]
+20
+1115
+BB,CC,DD,JJ
+[object Object],[object Object]
+
+787
+[object Object],[object Object]
+19
+1115
+BB,CC,DD,JJ
+[object Object],[object Object],[object Object]
+
+788
+[object Object],[object Object]
+18
+1166
+BB,CC,DD,JJ,EE
+[object Object],[object Object]
+
+789
+[object Object],[object Object]
+17
+1166
+BB,CC,DD,JJ,EE
+[object Object],[object Object]
+
+783
+[object Object],[object Object]
+14
+1396
+BB,CC,DD,EE,HH,JJ
+[object Object],[object Object]
+
+791
+[object Object],[object Object]
+18
+1423
+BB,CC,DD,JJ,HH
+[object Object],[object Object]
+
+790
+[object Object],[object Object]
+16
+1166
+BB,CC,DD,JJ,EE
+[object Object],[object Object]
+
+769
+[object Object],[object Object]
+23
+358
+BB,CC
+[object Object],[object Object],[object Object],[object Object],[object Object]
+
+785
+[object Object],[object Object]
+21
+1115
+BB,CC,DD,JJ
+[object Object],[object Object]
+
+792
+[object Object],[object Object]
+17
+1423
+BB,CC,DD,JJ,HH
+[object Object],[object Object]
+
+796
+[object Object],[object Object]
+13
+1456
+BB,CC,DD,JJ,HH,EE
+,[object Object]
+
+797
+[object Object],[object Object]
+21
+1110
+BB,CC,DD,HH
+[object Object],[object Object]
+
+795
+[object Object],[object Object]
+14
+1456
+BB,CC,DD,JJ,HH,EE
+[object Object],[object Object]
+
+794
+[object Object],[object Object]
+15
+1456
+BB,CC,DD,JJ,HH,EE
+[object Object],[object Object]
+
+800
+[object Object],[object Object]
+18
+1161
+BB,CC,DD,HH,EE
+[object Object],[object Object]
+
+801
+[object Object],[object Object]
+17
+1161
+BB,CC,DD,HH,EE
+[object Object],[object Object]
+
+802
+[object Object],[object Object]
+16
+1161
+BB,CC,DD,HH,EE
+[object Object],[object Object]
+
+799
+[object Object],[object Object]
+19
+1110
+BB,CC,DD,HH
+[object Object],[object Object],[object Object]
+
+798
+[object Object],[object Object]
+20
+1110
+BB,CC,DD,HH
+[object Object],[object Object]
+
+793
+[object Object],[object Object]
+16
+1423
+BB,CC,DD,JJ,HH
+[object Object],[object Object]
+
+805
+[object Object],[object Object]
+17
+1425
+BB,CC,DD,HH,JJ
+[object Object],[object Object]
+
+806
+[object Object],[object Object]
+16
+1425
+BB,CC,DD,HH,JJ
+[object Object],[object Object]
+
+804
+[object Object],[object Object]
+18
+1425
+BB,CC,DD,HH,JJ
+[object Object],[object Object]
+
+809
+[object Object],[object Object]
+22
+415
+BB,CC,EE
+[object Object],[object Object],[object Object],[object Object]
+
+810
+[object Object],[object Object]
+21
+815
+BB,CC,EE,DD
+[object Object],[object Object]
+
+811
+[object Object],[object Object]
+20
+815
+BB,CC,EE,DD
+[object Object],[object Object]
+
+812
+[object Object],[object Object]
+19
+815
+BB,CC,EE,DD
+[object Object],[object Object],[object Object]
+
+808
+[object Object],[object Object]
+14
+1458
+BB,CC,DD,HH,JJ,EE
+,[object Object]
+
+814
+[object Object],[object Object]
+17
+1438
+BB,CC,EE,DD,JJ,HH
+[object Object],[object Object]
+
+815
+[object Object],[object Object]
+16
+1438
+BB,CC,EE,DD,JJ,HH
+[object Object],[object Object]
+
+816
+[object Object],[object Object]
+15
+1438
+BB,CC,EE,DD,JJ,HH
+[object Object],[object Object]
+
+817
+[object Object],[object Object]
+14
+1438
+BB,CC,EE,DD,JJ,HH
+[object Object],
+
+818
+[object Object],[object Object]
+18
+1123
+BB,CC,EE,DD,HH
+[object Object],[object Object]
+
+819
+[object Object],[object Object]
+17
+1396
+BB,CC,EE,DD,HH,JJ
+[object Object],[object Object]
+
+820
+[object Object],[object Object]
+16
+1396
+BB,CC,EE,DD,HH,JJ
+[object Object],[object Object]
+
+821
+[object Object],[object Object]
+15
+1396
+BB,CC,EE,DD,HH,JJ
+[object Object],[object Object]
+
+822
+[object Object],[object Object]
+14
+1396
+BB,CC,EE,DD,HH,JJ
+[object Object],[object Object]
+
+807
+[object Object],[object Object]
+15
+1425
+BB,CC,DD,HH,JJ
+[object Object],[object Object]
+
+803
+[object Object],[object Object]
+15
+1392
+BB,CC,DD,HH,EE,JJ
+[object Object],
+
+824
+[object Object],[object Object]
+21
+772
+BB,CC,EE,JJ
+[object Object],[object Object]
+
+826
+[object Object],[object Object]
+19
+772
+BB,CC,EE,JJ
+[object Object],[object Object]
+
+827
+[object Object],[object Object]
+18
+772
+BB,CC,EE,JJ
+[object Object],[object Object],[object Object]
+
+828
+[object Object],[object Object]
+17
+1092
+BB,CC,EE,JJ,DD
+[object Object],[object Object]
+
+829
+[object Object],[object Object]
+16
+1092
+BB,CC,EE,JJ,DD
+[object Object],[object Object]
+
+830
+[object Object],[object Object]
+15
+1268
+BB,CC,EE,JJ,DD,HH
+,[object Object]
+
+813
+[object Object],[object Object]
+18
+1130
+BB,CC,EE,DD,JJ
+[object Object],[object Object]
+
+825
+[object Object],[object Object]
+20
+772
+BB,CC,EE,JJ
+[object Object],[object Object]
+
+832
+[object Object],[object Object]
+16
+1080
+BB,CC,EE,JJ,HH
+[object Object],[object Object]
+
+833
+[object Object],[object Object]
+15
+1320
+BB,CC,EE,JJ,HH,DD
+[object Object],[object Object]
+
+823
+[object Object],[object Object]
+13
+1396
+BB,CC,EE,DD,HH,JJ
+[object Object],
+
+836
+[object Object],[object Object]
+21
+767
+BB,CC,EE,HH
+[object Object],[object Object]
+
+837
+[object Object],[object Object]
+20
+767
+BB,CC,EE,HH
+[object Object],[object Object]
+
+838
+[object Object],[object Object]
+19
+767
+BB,CC,EE,HH
+[object Object],[object Object]
+
+839
+[object Object],[object Object]
+18
+767
+BB,CC,EE,HH
+[object Object],[object Object],[object Object]
+
+840
+[object Object],[object Object]
+17
+1087
+BB,CC,EE,HH,DD
+[object Object],[object Object]
+
+841
+[object Object],[object Object]
+16
+1087
+BB,CC,EE,HH,DD
+[object Object],[object Object]
+
+842
+[object Object],[object Object]
+15
+1087
+BB,CC,EE,HH,DD
+[object Object],[object Object]
+
+834
+[object Object],[object Object]
+14
+1320
+BB,CC,EE,JJ,HH,DD
+[object Object],[object Object]
+
+844
+[object Object],[object Object]
+16
+1040
+BB,CC,EE,HH,JJ
+[object Object],[object Object]
+
+845
+[object Object],[object Object]
+15
+1040
+BB,CC,EE,HH,JJ
+[object Object],[object Object]
+
+846
+[object Object],[object Object]
+14
+1240
+BB,CC,EE,HH,JJ,DD
+[object Object],[object Object]
+
+847
+[object Object],[object Object]
+13
+1240
+BB,CC,EE,HH,JJ,DD
+[object Object],[object Object]
+
+831
+[object Object],[object Object]
+17
+1080
+BB,CC,EE,JJ,HH
+[object Object],[object Object]
+
+843
+[object Object],[object Object]
+17
+1040
+BB,CC,EE,HH,JJ
+[object Object],[object Object]
+
+848
+[object Object],[object Object]
+12
+1240
+BB,CC,EE,HH,JJ,DD
+,[object Object]
+
+851
+[object Object],[object Object]
+20
+1157
+BB,CC,JJ,DD
+[object Object],[object Object]
+
+849
+[object Object],[object Object]
+22
+757
+BB,CC,JJ
+[object Object],[object Object],[object Object],[object Object]
+
+853
+[object Object],[object Object]
+18
+1208
+BB,CC,JJ,DD,EE
+[object Object],[object Object]
+
+854
+[object Object],[object Object]
+17
+1428
+BB,CC,JJ,DD,EE,HH
+[object Object],[object Object]
+
+855
+[object Object],[object Object]
+16
+1428
+BB,CC,JJ,DD,EE,HH
+[object Object],
+
+835
+[object Object],[object Object]
+13
+1320
+BB,CC,EE,JJ,HH,DD
+,[object Object]
+
+857
+[object Object],[object Object]
+17
+1504
+BB,CC,JJ,DD,HH,EE
+[object Object],[object Object]
+
+858
+[object Object],[object Object]
+16
+1504
+BB,CC,JJ,DD,HH,EE
+[object Object],[object Object]
+
+859
+[object Object],[object Object]
+15
+1504
+BB,CC,JJ,DD,HH,EE
+[object Object],[object Object]
+
+860
+[object Object],[object Object]
+14
+1504
+BB,CC,JJ,DD,HH,EE
+[object Object],[object Object]
+
+861
+[object Object],[object Object]
+13
+1504
+BB,CC,JJ,DD,HH,EE
+[object Object],
+
+862
+[object Object],[object Object]
+21
+814
+BB,CC,JJ,EE
+[object Object],[object Object]
+
+863
+[object Object],[object Object]
+20
+814
+BB,CC,JJ,EE
+[object Object],[object Object]
+
+864
+[object Object],[object Object]
+19
+814
+BB,CC,JJ,EE
+[object Object],[object Object]
+
+865
+[object Object],[object Object]
+18
+814
+BB,CC,JJ,EE
+[object Object],[object Object],[object Object],[object Object]
+
+866
+[object Object],[object Object]
+17
+1402
+BB,CC,JJ,EE,DD,HH
+[object Object],[object Object]
+
+852
+[object Object],[object Object]
+19
+1157
+BB,CC,JJ,DD
+[object Object],[object Object],[object Object]
+
+868
+[object Object],[object Object]
+15
+1402
+BB,CC,JJ,EE,DD,HH
+[object Object],[object Object]
+
+869
+[object Object],[object Object]
+14
+1402
+BB,CC,JJ,EE,DD,HH
+[object Object],[object Object]
+
+870
+[object Object],[object Object]
+13
+1402
+BB,CC,JJ,EE,DD,HH
+,
+
+871
+[object Object],[object Object]
+21
+1109
+BB,CC,JJ,HH
+[object Object],[object Object]
+
+872
+[object Object],[object Object]
+20
+1109
+BB,CC,JJ,HH
+[object Object],[object Object]
+
+873
+[object Object],[object Object]
+19
+1109
+BB,CC,JJ,HH
+[object Object],[object Object]
+
+874
+[object Object],[object Object]
+18
+1109
+BB,CC,JJ,HH
+[object Object],[object Object],[object Object]
+
+875
+[object Object],[object Object]
+17
+1389
+BB,CC,JJ,HH,DD
+[object Object],[object Object]
+
+876
+[object Object],[object Object]
+16
+1389
+BB,CC,JJ,HH,DD
+[object Object],[object Object]
+
+867
+[object Object],[object Object]
+16
+1402
+BB,CC,JJ,EE,DD,HH
+[object Object],[object Object]
+
+878
+[object Object],[object Object]
+14
+1422
+BB,CC,JJ,HH,DD,EE
+[object Object],[object Object]
+
+879
+[object Object],[object Object]
+13
+1422
+BB,CC,JJ,HH,DD,EE
+,[object Object]
+
+880
+[object Object],[object Object]
+17
+1148
+BB,CC,JJ,HH,EE
+[object Object],[object Object]
+
+881
+[object Object],[object Object]
+16
+1148
+BB,CC,JJ,HH,EE
+[object Object],[object Object]
+
+882
+[object Object],[object Object]
+15
+1148
+BB,CC,JJ,HH,EE
+[object Object],[object Object]
+
+883
+[object Object],[object Object]
+14
+1348
+BB,CC,JJ,HH,EE,DD
+[object Object],[object Object]
+
+850
+[object Object],[object Object]
+21
+1157
+BB,CC,JJ,DD
+[object Object],[object Object]
+
+885
+[object Object],[object Object]
+12
+1348
+BB,CC,JJ,HH,EE,DD
+,[object Object]
+
+886
+[object Object],[object Object]
+22
+710
+BB,CC,HH
+[object Object],[object Object],[object Object],[object Object]
+
+887
+[object Object],[object Object]
+21
+1110
+BB,CC,HH,DD
+[object Object],[object Object]
+
+888
+[object Object],[object Object]
+20
+1110
+BB,CC,HH,DD
+[object Object],[object Object]
+
+889
+[object Object],[object Object]
+19
+1110
+BB,CC,HH,DD
+[object Object],[object Object],[object Object]
+
+890
+[object Object],[object Object]
+18
+1161
+BB,CC,HH,DD,EE
+[object Object],[object Object]
+
+891
+[object Object],[object Object]
+17
+1161
+BB,CC,HH,DD,EE
+[object Object],[object Object]
+
+856
+[object Object],[object Object]
+18
+1465
+BB,CC,JJ,DD,HH
+[object Object],[object Object]
+
+893
+[object Object],[object Object]
+15
+1392
+BB,CC,HH,DD,EE,JJ
+,[object Object]
+
+894
+[object Object],[object Object]
+18
+1425
+BB,CC,HH,DD,JJ
+[object Object],[object Object]
+
+877
+[object Object],[object Object]
+15
+1389
+BB,CC,JJ,HH,DD
+[object Object],[object Object]
+
+896
+[object Object],[object Object]
+16
+1425
+BB,CC,HH,DD,JJ
+[object Object],[object Object]
+
+897
+[object Object],[object Object]
+15
+1425
+BB,CC,HH,DD,JJ
+[object Object],[object Object]
+
+898
+[object Object],[object Object]
+14
+1458
+BB,CC,HH,DD,JJ,EE
+[object Object],
+
+899
+[object Object],[object Object]
+21
+767
+BB,CC,HH,EE
+[object Object],[object Object]
+
+895
+[object Object],[object Object]
+17
+1425
+BB,CC,HH,DD,JJ
+[object Object],[object Object]
+
+884
+[object Object],[object Object]
+13
+1348
+BB,CC,JJ,HH,EE,DD
+[object Object],[object Object]
+
+902
+[object Object],[object Object]
+18
+767
+BB,CC,HH,EE
+[object Object],[object Object],[object Object]
+
+900
+[object Object],[object Object]
+20
+767
+BB,CC,HH,EE
+[object Object],[object Object]
+
+901
+[object Object],[object Object]
+19
+767
+BB,CC,HH,EE
+[object Object],[object Object]
+
+905
+[object Object],[object Object]
+15
+1087
+BB,CC,HH,EE,DD
+[object Object],[object Object]
+
+906
+[object Object],[object Object]
+17
+1040
+BB,CC,HH,EE,JJ
+[object Object],[object Object]
+
+907
+[object Object],[object Object]
+16
+1040
+BB,CC,HH,EE,JJ
+[object Object],[object Object]
+
+908
+[object Object],[object Object]
+15
+1040
+BB,CC,HH,EE,JJ
+[object Object],[object Object]
+
+909
+[object Object],[object Object]
+14
+1240
+BB,CC,HH,EE,JJ,DD
+[object Object],[object Object]
+
+910
+[object Object],[object Object]
+13
+1240
+BB,CC,HH,EE,JJ,DD
+[object Object],[object Object]
+
+911
+[object Object],[object Object]
+12
+1240
+BB,CC,HH,EE,JJ,DD
+[object Object],
+
+912
+[object Object],[object Object]
+21
+1067
+BB,CC,HH,JJ
+[object Object],[object Object]
+
+913
+[object Object],[object Object]
+20
+1067
+BB,CC,HH,JJ
+[object Object],[object Object]
+
+903
+[object Object],[object Object]
+17
+1087
+BB,CC,HH,EE,DD
+[object Object],[object Object]
+
+915
+[object Object],[object Object]
+18
+1067
+BB,CC,HH,JJ
+[object Object],[object Object]
+
+916
+[object Object],[object Object]
+17
+1067
+BB,CC,HH,JJ
+[object Object],[object Object]
+
+917
+[object Object],[object Object]
+16
+1067
+BB,CC,HH,JJ
+[object Object],[object Object],[object Object]
+
+918
+[object Object],[object Object]
+15
+1307
+BB,CC,HH,JJ,DD
+[object Object],[object Object]
+
+919
+[object Object],[object Object]
+14
+1340
+BB,CC,HH,JJ,DD,EE
+[object Object],[object Object]
+
+920
+[object Object],[object Object]
+13
+1340
+BB,CC,HH,JJ,DD,EE
+[object Object],[object Object]
+
+921
+[object Object],[object Object]
+12
+1340
+BB,CC,HH,JJ,DD,EE
+[object Object],[object Object]
+
+892
+[object Object],[object Object]
+16
+1161
+BB,CC,HH,DD,EE
+[object Object],[object Object]
+
+923
+[object Object],[object Object]
+15
+1100
+BB,CC,HH,JJ,EE
+[object Object],[object Object]
+
+924
+[object Object],[object Object]
+14
+1300
+BB,CC,HH,JJ,EE,DD
+[object Object],[object Object]
+
+922
+[object Object],[object Object]
+11
+1340
+BB,CC,HH,JJ,DD,EE
+[object Object],
+
+926
+[object Object],[object Object]
+12
+1300
+BB,CC,HH,JJ,EE,DD
+[object Object],[object Object]
+
+927
+[object Object],[object Object]
+11
+1300
+BB,CC,HH,JJ,EE,DD
+[object Object],[object Object]
+
+928
+[object Object],[object Object]
+10
+1300
+BB,CC,HH,JJ,EE,DD
+[object Object],
+
+904
+[object Object],[object Object]
+16
+1087
+BB,CC,HH,EE,DD
+[object Object],[object Object]
+
+930
+[object Object],[object Object]
+24
+381
+BB,EE
+[object Object],[object Object]
+
+931
+[object Object],[object Object]
+23
+381
+BB,EE
+[object Object],[object Object],[object Object],[object Object],[object Object]
+
+929
+[object Object],[object Object]
+25
+381
+BB,EE
+[object Object],[object Object]
+
+925
+[object Object],[object Object]
+13
+1300
+BB,CC,HH,JJ,EE,DD
+[object Object],[object Object]
+
+914
+[object Object],[object Object]
+19
+1067
+BB,CC,HH,JJ
+[object Object],[object Object]
+
+932
+[object Object],[object Object]
+22
+423
+BB,EE,CC
+[object Object],[object Object],[object Object],[object Object]
+
+933
+[object Object],[object Object]
+21
+823
+BB,EE,CC,DD
+[object Object],[object Object]
+
+934
+[object Object],[object Object]
+20
+823
+BB,EE,CC,DD
+[object Object],[object Object],[object Object]
+
+936
+[object Object],[object Object]
+18
+1446
+BB,EE,CC,DD,JJ,HH
+[object Object],[object Object]
+
+939
+[object Object],[object Object]
+15
+1446
+BB,EE,CC,DD,JJ,HH
+[object Object],[object Object]
+
+940
+[object Object],[object Object]
+14
+1446
+BB,EE,CC,DD,JJ,HH
+,[object Object]
+
+941
+[object Object],[object Object]
+19
+1131
+BB,EE,CC,DD,HH
+[object Object],[object Object]
+
+942
+[object Object],[object Object]
+18
+1446
+BB,EE,CC,DD,HH,JJ
+[object Object],[object Object]
+
+943
+[object Object],[object Object]
+17
+1446
+BB,EE,CC,DD,HH,JJ
+[object Object],[object Object]
+
+935
+[object Object],[object Object]
+19
+1138
+BB,EE,CC,DD,JJ
+[object Object],[object Object]
+
+945
+[object Object],[object Object]
+15
+1446
+BB,EE,CC,DD,HH,JJ
+[object Object],[object Object]
+
+946
+[object Object],[object Object]
+14
+1446
+BB,EE,CC,DD,HH,JJ
+[object Object],
+
+947
+[object Object],[object Object]
+21
+819
+BB,EE,CC,HH
+[object Object],[object Object]
+
+948
+[object Object],[object Object]
+20
+819
+BB,EE,CC,HH
+[object Object],[object Object],[object Object]
+
+949
+[object Object],[object Object]
+19
+1179
+BB,EE,CC,HH,DD
+[object Object],[object Object]
+
+950
+[object Object],[object Object]
+18
+1179
+BB,EE,CC,HH,DD
+[object Object],[object Object]
+
+944
+[object Object],[object Object]
+16
+1446
+BB,EE,CC,DD,HH,JJ
+[object Object],[object Object]
+
+952
+[object Object],[object Object]
+19
+1134
+BB,EE,CC,HH,JJ
+[object Object],[object Object]
+
+953
+[object Object],[object Object]
+18
+1134
+BB,EE,CC,HH,JJ
+[object Object],[object Object]
+
+954
+[object Object],[object Object]
+17
+1134
+BB,EE,CC,HH,JJ
+[object Object],[object Object]
+
+937
+[object Object],[object Object]
+17
+1446
+BB,EE,CC,DD,JJ,HH
+[object Object],[object Object]
+
+956
+[object Object],[object Object]
+15
+1374
+BB,EE,CC,HH,JJ,DD
+[object Object],[object Object]
+
+957
+[object Object],[object Object]
+14
+1374
+BB,EE,CC,HH,JJ,DD
+,[object Object]
+
+958
+[object Object],[object Object]
+21
+780
+BB,EE,CC,JJ
+[object Object],[object Object]
+
+959
+[object Object],[object Object]
+20
+780
+BB,EE,CC,JJ
+[object Object],[object Object],[object Object]
+
+960
+[object Object],[object Object]
+19
+1140
+BB,EE,CC,JJ,DD
+[object Object],[object Object]
+
+961
+[object Object],[object Object]
+18
+1140
+BB,EE,CC,JJ,DD
+[object Object],[object Object]
+
+962
+[object Object],[object Object]
+17
+1140
+BB,EE,CC,JJ,DD
+[object Object],[object Object]
+
+963
+[object Object],[object Object]
+16
+1404
+BB,EE,CC,JJ,DD,HH
+[object Object],
+
+951
+[object Object],[object Object]
+17
+1179
+BB,EE,CC,HH,DD
+[object Object],[object Object]
+
+938
+[object Object],[object Object]
+16
+1446
+BB,EE,CC,DD,JJ,HH
+[object Object],[object Object]
+
+955
+[object Object],[object Object]
+16
+1374
+BB,EE,CC,HH,JJ,DD
+[object Object],[object Object]
+
+967
+[object Object],[object Object]
+16
+1088
+BB,EE,CC,JJ,HH
+[object Object],[object Object]
+
+968
+[object Object],[object Object]
+15
+1328
+BB,EE,CC,JJ,HH,DD
+[object Object],[object Object]
+
+969
+[object Object],[object Object]
+14
+1328
+BB,EE,CC,JJ,HH,DD
+[object Object],[object Object]
+
+965
+[object Object],[object Object]
+18
+1088
+BB,EE,CC,JJ,HH
+[object Object],[object Object]
+
+971
+[object Object],[object Object]
+22
+781
+BB,EE,DD
+[object Object],[object Object],[object Object],[object Object]
+
+972
+[object Object],[object Object]
+21
+819
+BB,EE,DD,CC
+[object Object],[object Object]
+
+973
+[object Object],[object Object]
+20
+819
+BB,EE,DD,CC
+[object Object],[object Object]
+
+974
+[object Object],[object Object]
+19
+819
+BB,EE,DD,CC
+[object Object],[object Object],[object Object]
+
+975
+[object Object],[object Object]
+18
+1134
+BB,EE,DD,CC,JJ
+[object Object],[object Object]
+
+976
+[object Object],[object Object]
+17
+1398
+BB,EE,DD,CC,JJ,HH
+[object Object],[object Object]
+
+977
+[object Object],[object Object]
+16
+1398
+BB,EE,DD,CC,JJ,HH
+[object Object],[object Object]
+
+978
+[object Object],[object Object]
+15
+1398
+BB,EE,DD,CC,JJ,HH
+[object Object],[object Object]
+
+979
+[object Object],[object Object]
+14
+1398
+BB,EE,DD,CC,JJ,HH
+,[object Object]
+
+980
+[object Object],[object Object]
+18
+1127
+BB,EE,DD,CC,HH
+[object Object],[object Object]
+
+970
+[object Object],[object Object]
+13
+1328
+BB,EE,CC,JJ,HH,DD
+,[object Object]
+
+982
+[object Object],[object Object]
+16
+1400
+BB,EE,DD,CC,HH,JJ
+[object Object],[object Object]
+
+983
+[object Object],[object Object]
+15
+1400
+BB,EE,DD,CC,HH,JJ
+[object Object],[object Object]
+
+984
+[object Object],[object Object]
+14
+1400
+BB,EE,DD,CC,HH,JJ
+[object Object],[object Object]
+
+985
+[object Object],[object Object]
+13
+1400
+BB,EE,DD,CC,HH,JJ
+,[object Object]
+
+986
+[object Object],[object Object]
+21
+1177
+BB,EE,DD,HH
+[object Object],[object Object]
+
+987
+[object Object],[object Object]
+20
+1177
+BB,EE,DD,HH
+[object Object],[object Object]
+
+988
+[object Object],[object Object]
+19
+1177
+BB,EE,DD,HH
+[object Object],[object Object],[object Object]
+
+989
+[object Object],[object Object]
+18
+1211
+BB,EE,DD,HH,CC
+[object Object],[object Object]
+
+990
+[object Object],[object Object]
+17
+1211
+BB,EE,DD,HH,CC
+[object Object],[object Object]
+
+966
+[object Object],[object Object]
+17
+1088
+BB,EE,CC,JJ,HH
+[object Object],[object Object]
+
+992
+[object Object],[object Object]
+18
+1492
+BB,EE,DD,HH,JJ
+[object Object],[object Object]
+
+993
+[object Object],[object Object]
+17
+1492
+BB,EE,DD,HH,JJ
+[object Object],[object Object]
+
+994
+[object Object],[object Object]
+16
+1514
+BB,EE,DD,HH,JJ,CC
+[object Object],[object Object]
+
+995
+[object Object],[object Object]
+15
+1514
+BB,EE,DD,HH,JJ,CC
+[object Object],[object Object]
+
+996
+[object Object],[object Object]
+14
+1514
+BB,EE,DD,HH,JJ,CC
+,[object Object]
+
+964
+[object Object],[object Object]
+19
+1088
+BB,EE,CC,JJ,HH
+[object Object],[object Object]
+
+998
+[object Object],[object Object]
+20
+1138
+BB,EE,DD,JJ
+[object Object],[object Object]
+
+999
+[object Object],[object Object]
+19
+1138
+BB,EE,DD,JJ
+[object Object],[object Object],[object Object]
+
+981
+[object Object],[object Object]
+17
+1400
+BB,EE,DD,CC,HH,JJ
+[object Object],[object Object]
+
+1000
+[object Object],[object Object]
+18
+1172
+BB,EE,DD,JJ,CC
+[object Object],[object Object]
+
+991
+[object Object],[object Object]
+16
+1400
+BB,EE,DD,HH,CC,JJ
+,[object Object]
+
+997
+[object Object],[object Object]
+21
+1138
+BB,EE,DD,JJ
+[object Object],[object Object]
+
