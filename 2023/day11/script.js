@@ -197,9 +197,56 @@ const handleInputPartTwo = (input) => {
   return sum;
 };
 
-logBenchmarkTimes([
-  { name: `p1: sample`, func: () => handleInputPartOne(sample) },
-  { name: `p1: actual`, func: () => handleInputPartOne(actual) },
-  { name: `p2: sample`, func: () => handleInputPartTwo(sample) },
-  { name: `p2: actual`, func: () => handleInputPartTwo(actual) },
-]);
+// I dunno what I was smoking with that last solution, I guess I just assumed it would have become a pathfinding problem
+// only like 1000x as fast
+const refinedHandleInput = (input, part) => {
+  const emptyMultiplier = part === 1 ? 2 : 1000000;
+  const space = input.split("\n").map((row) => row.split(""));
+  const galaxies = space.flatMap((row, rowIndex) =>
+    row
+      .flatMap((column, columnIndex) => (column === "." ? [] : [columnIndex]))
+      .map((columnIndex) => [rowIndex, columnIndex])
+  );
+  const rowCost = space.map((row) => (row.includes("#") ? 1 : emptyMultiplier));
+  const columnCost = space
+    .map((_, rowIndex) => space.map((row) => row[rowIndex]))
+    .map((column) => (column.includes("#") ? 1 : emptyMultiplier));
+
+  let sum = 0;
+
+  for (let galaxyAIndex = 0; galaxyAIndex < galaxies.length - 1; galaxyAIndex += 1) {
+    for (let galaxyBIndex = galaxyAIndex + 1; galaxyBIndex < galaxies.length; galaxyBIndex += 1) {
+      const [galaxyARow, galaxyAColumn] = galaxies[galaxyAIndex];
+      const [galaxyBRow, galaxyBColumn] = galaxies[galaxyBIndex];
+      for (
+        let rowIndex = Math.min(galaxyARow, galaxyBRow);
+        rowIndex < Math.max(galaxyARow, galaxyBRow);
+        rowIndex += 1
+      ) {
+        sum += rowCost[rowIndex];
+      }
+      for (
+        let columnIndex = Math.min(galaxyAColumn, galaxyBColumn);
+        columnIndex < Math.max(galaxyAColumn, galaxyBColumn);
+        columnIndex += 1
+      ) {
+        sum += columnCost[columnIndex];
+      }
+    }
+  }
+  return sum;
+};
+
+logBenchmarkTimes(
+  [
+    { name: `p1: sample`, func: () => handleInputPartOne(sample) },
+    { name: `p1: actual`, func: () => handleInputPartOne(actual) },
+    { name: `p2: sample`, func: () => handleInputPartTwo(sample) },
+    { name: `p2: actual`, func: () => handleInputPartTwo(actual) },
+    { name: `p1: sample | refined`, func: () => refinedHandleInput(sample, 1) },
+    { name: `p1: actual | refined`, func: () => refinedHandleInput(actual, 1) },
+    { name: `p2: sample | refined`, func: () => refinedHandleInput(sample, 2) },
+    { name: `p2: actual | refined`, func: () => refinedHandleInput(actual, 2) },
+  ],
+  true
+);

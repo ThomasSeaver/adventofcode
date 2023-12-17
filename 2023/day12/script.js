@@ -133,13 +133,16 @@ const refinedHandleInput = (input, part) => {
     .reduce((previous, current) => previous + current, 0);
 };
 
-logBenchmarkTimes([
-  { name: `p1: sample`, func: () => handleInputPartOne(sample) },
-  { name: `p1: actual`, func: () => handleInputPartOne(actual) },
-  { name: `p2: sample`, func: () => handleInputPartTwo(sample) },
-  { name: `p2: actual`, func: () => handleInputPartTwo(actual) },
-  { name: `p1: sample | refined`, func: () => refinedHandleInput(sample, 1) },
-  { name: `p1: actual | refined`, func: () => refinedHandleInput(actual, 1) },
-  { name: `p2: sample | refined`, func: () => refinedHandleInput(sample, 2) },
-  { name: `p2: actual | refined`, func: () => refinedHandleInput(actual, 2) },
-]);
+logBenchmarkTimes(
+  [
+    { name: `p1: sample`, func: () => handleInputPartOne(sample) },
+    { name: `p1: actual`, func: () => handleInputPartOne(actual) },
+    { name: `p2: sample`, func: () => handleInputPartTwo(sample) },
+    { name: `p2: actual`, func: () => handleInputPartTwo(actual) },
+    { name: `p1: sample | refined`, func: () => refinedHandleInput(sample, 1) },
+    { name: `p1: actual | refined`, func: () => refinedHandleInput(actual, 1) },
+    { name: `p2: sample | refined`, func: () => refinedHandleInput(sample, 2) },
+    { name: `p2: actual | refined`, func: () => refinedHandleInput(actual, 2) },
+  ],
+  true
+);

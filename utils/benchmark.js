@@ -1,12 +1,32 @@
-const logBenchmarkTimes = (functions) => {
+const logBenchmarkTimes = (functions, compare) => {
   const times = [];
   for (const { name, func } of functions) {
-    const start = performance.now();
     const result = func();
-    const end = performance.now();
-    times.push({ name, result, time: Math.floor((end - start) * 1000) / 1000000 });
+    let timeSum = 0;
+    const runCount = 10;
+    for (let _runIndex = 0; _runIndex < runCount; _runIndex += 1) {
+      const start = performance.now();
+      func();
+      const end = performance.now();
+      timeSum += end - start;
+    }
+    times.push({
+      name,
+      result,
+      average: Math.floor((1000 * timeSum) / runCount) / 1000000,
+    });
   }
-  console.table(times);
+  if (!compare) {
+    console.table(times);
+  } else {
+    console.table(
+      times.map((time, timeIndex) => ({
+        ...time,
+        speedDifference:
+          Math.floor((1000000 * times[(timeIndex + times.length / 2) % times.length].average) / time.average) / 1000000,
+      }))
+    );
+  }
 };
 
 module.exports = { logBenchmarkTimes };
