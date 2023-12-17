@@ -1,3 +1,4 @@
+const { logBenchmarkTimes } = require("../../utils/benchmark");
 const { grabText } = require("../../utils/grab-text");
 const { primeFactorize } = require("../../utils/primes");
 const firstSample = grabText(`${__dirname}/s1.txt`);
@@ -80,8 +81,11 @@ const handleInputPartTwo = (input) => {
   );
   return unifiedStepCount;
 };
-console.log("p1: sample 1", handleInputPartOne(firstSample));
-console.log("p1: sample 2", handleInputPartOne(secondSample));
-console.log("p1: actual", handleInputPartOne(actual));
-console.log("p2: sample 3", handleInputPartTwo(thirdSample));
-console.log("p2: actual", handleInputPartTwo(actual));
+
+logBenchmarkTimes([
+  { name: `p1: sample 1`, func: () => handleInputPartOne(firstSample) },
+  { name: `p1: sample 2`, func: () => handleInputPartOne(secondSample) },
+  { name: `p1: actual`, func: () => handleInputPartOne(actual) },
+  { name: `p2: sample 3`, func: () => handleInputPartTwo(thirdSample) },
+  { name: `p2: actual`, func: () => handleInputPartTwo(actual) },
+]);

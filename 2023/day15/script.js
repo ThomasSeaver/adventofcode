@@ -1,3 +1,4 @@
+const { logBenchmarkTimes } = require("../../utils/benchmark");
 const { grabText } = require("../../utils/grab-text");
 const sample = grabText(`${__dirname}/s.txt`);
 const actual = grabText(`${__dirname}/i.txt`);
@@ -55,8 +56,9 @@ const handleInputPartTwo = (input) => {
   );
 };
 
-console.log(`p1: sample`, handleInputPartOne(sample));
-console.log("p1: actual", handleInputPartOne(actual));
-
-console.log(`p2: sample`, handleInputPartTwo(sample));
-console.log("p2: actual", handleInputPartTwo(actual));
+logBenchmarkTimes([
+  { name: `p1: sample`, func: () => handleInputPartOne(sample) },
+  { name: `p1: actual`, func: () => handleInputPartOne(actual) },
+  { name: `p2: sample`, func: () => handleInputPartTwo(sample) },
+  { name: `p2: actual`, func: () => handleInputPartTwo(actual) },
+]);

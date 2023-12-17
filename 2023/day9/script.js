@@ -1,5 +1,6 @@
+const { logBenchmarkTimes } = require("../../utils/benchmark");
 const { grabText } = require("../../utils/grab-text");
-const firstSample = grabText(`${__dirname}/s.txt`);
+const sample = grabText(`${__dirname}/s.txt`);
 const actual = grabText(`${__dirname}/i.txt`);
 
 const getSequenceDifferences = (input) => {
@@ -38,7 +39,9 @@ const handleInputPartTwo = (input) => {
   return values.map((value) => convertSequencePartTwo(value)[0]).reduce((prev, cur) => prev + cur, 0);
 };
 
-console.log("p1: sample 1", handleInputPartOne(firstSample));
-console.log("p1: actual", handleInputPartOne(actual));
-console.log("p2: sample 1", handleInputPartTwo(firstSample));
-console.log("p2: actual", handleInputPartTwo(actual));
+logBenchmarkTimes([
+  { name: `p1: sample`, func: () => handleInputPartOne(sample) },
+  { name: `p1: actual`, func: () => handleInputPartOne(actual) },
+  { name: `p2: sample`, func: () => handleInputPartTwo(sample) },
+  { name: `p2: actual`, func: () => handleInputPartTwo(actual) },
+]);

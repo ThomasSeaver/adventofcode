@@ -1,3 +1,4 @@
+const { logBenchmarkTimes } = require("../../utils/benchmark");
 const { grabText } = require("../../utils/grab-text");
 const firstPartSamples = grabText(`${__dirname}/s1.txt`);
 const secondPartSamples = grabText(`${__dirname}/s2.txt`);
@@ -332,27 +333,24 @@ const handleInputPartTwo = (input) => {
     }
   }
 
-  const fieldString = field
-    .map((row) => row.map((pipe) => (pipe.loopPiece ? pipe.pipe : pipe.isContained ? "I" : "O")).join(""))
-    .join("\n");
-
   const containedCount = field.reduce(
     (previousCount, currentRow) => previousCount + currentRow.filter((pipe) => pipe.isContained).length,
     0
   );
 
-  return [fieldString, containedCount].join("\n");
+  return containedCount;
 };
 
+const functions = [];
+
 for (const [sampleIndex, sample] of firstPartSamples.split("\n\n").entries()) {
-  console.log(`p1: sample ${sampleIndex}`, handleInputPartOne(sample));
+  functions.push({ name: `p1: sample ${sampleIndex + 1}`, func: () => handleInputPartOne(sample) });
 }
-console.log("p1: actual", handleInputPartOne(actual));
+functions.push({ name: `p1: actual`, func: () => handleInputPartOne(actual) });
+
 for (const [sampleIndex, sample] of secondPartSamples.split("\n\n").entries()) {
-  console.log(`p2: sample ${sampleIndex}`);
-  console.log(handleInputPartTwo(sample));
-  console.log();
+  functions.push({ name: `p2: sample ${sampleIndex + 1}`, func: () => handleInputPartTwo(sample) });
 }
-console.log("p2: actual");
-console.log(handleInputPartTwo(actual));
-console.log();
+functions.push({ name: `p2: actual`, func: () => handleInputPartTwo(actual) });
+
+logBenchmarkTimes(functions);
