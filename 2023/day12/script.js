@@ -144,5 +144,5 @@ logBenchmarkTimes(
     { name: `p2: sample | refined`, func: () => refinedHandleInput(sample, 2) },
     { name: `p2: actual | refined`, func: () => refinedHandleInput(actual, 2) },
   ],
-  true
+  { shouldCompare: true }
 );

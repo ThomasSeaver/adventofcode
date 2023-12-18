@@ -1,10 +1,10 @@
-const logBenchmarkTimes = (functions, compare) => {
+const logBenchmarkTimes = (functions, options) => {
+  const { shouldCompare, runCount } = options ?? {};
   const times = [];
   for (const { name, func } of functions) {
     const result = func();
     let timeSum = 0;
-    const runCount = 10;
-    for (let _runIndex = 0; _runIndex < runCount; _runIndex += 1) {
+    for (let _runIndex = 0; _runIndex < (runCount ?? 10); _runIndex += 1) {
       const start = performance.now();
       func();
       const end = performance.now();
@@ -13,10 +13,10 @@ const logBenchmarkTimes = (functions, compare) => {
     times.push({
       name,
       result,
-      average: Math.floor((1000 * timeSum) / runCount) / 1000000,
+      average: Math.floor((1000 * timeSum) / (runCount ?? 10)) / 1000000,
     });
   }
-  if (!compare) {
+  if (!shouldCompare) {
     console.table(times);
   } else {
     console.table(
