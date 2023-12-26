@@ -1,0 +1,58 @@
+&ck -> lb, lv, ns, kl, qt
+&cs -> hn, pj, qb, zl
+&dr -> rx
+&dx -> zj, xz, mp, zn, xs, hc
+&jh -> ng, bp, zr, sg, bj
+&mp -> dr
+&ng -> dr
+&qb -> dr
+&qt -> dr
+%bj -> gg
+%bp -> zr
+%cg -> lv, ck
+%ch -> dx
+%cr -> jg, jh
+%dd -> dx, qp
+%fl -> jh, ps
+%gg -> jh, nx
+%hc -> tn
+%hn -> pq
+%hr -> ck, pl
+%jd -> cs
+%jg -> jh
+%kd -> rk, ck
+%kk -> cs, tc
+%kl -> lb
+%km -> ck
+%lb -> cg
+%ls -> cs, jd
+%lv -> hr
+%ns -> ck, kd
+%nx -> jh, cr
+%pj -> cs, pr
+%pl -> ck, xq
+%pm -> cs, kk
+%pq -> tl, cs
+%pr -> zl, cs
+%ps -> bp, jh
+%qp -> dx, zj
+%rj -> km, ck
+%rk -> ck, kl
+%rm -> zz, dx
+%rr -> rm, dx
+%rz -> jh, fl
+%sg -> rz, jh
+%st -> jh, bj
+%tc -> cs, hn
+%tl -> vn, cs
+%tn -> dx, xs
+%vn -> cs, ls
+%xq -> rj, ck
+%xs -> rr
+%xz -> dx, zn
+%zj -> hc
+%zl -> pm
+%zn -> dd
+%zr -> st
+%zz -> dx, ch
+broadcaster -> ns, pj, xz, sg

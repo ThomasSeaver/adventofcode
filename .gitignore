@@ -15,3 +15,5 @@ Cargo.lock
 
 # Mac artifacts
 .DS_STORE
+
+debug.txt
