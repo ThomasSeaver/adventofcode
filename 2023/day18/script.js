@@ -1,6 +1,5 @@
 const { logBenchmarkTimes } = require("../../utils/benchmark");
 const { grabText } = require("../../utils/grab-text");
-const { toDebugFile } = require("../../utils/to-debug-file");
 const samples = grabText(`${__dirname}/s.txt`);
 const actual = grabText(`${__dirname}/i.txt`);
 

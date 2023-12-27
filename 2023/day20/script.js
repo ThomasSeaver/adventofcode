@@ -76,7 +76,7 @@ const handleInputPartOne = (input) => {
       }
     }
   }
-  // console.log(modules);
+
   return lowPulseCount * highPulseCount;
 };
 
@@ -147,7 +147,6 @@ const handleInputPartTwo = (input) => {
       }
       if (pulse.destination === "dr" && pulse.type === "high") {
         rxMemo[pulse.source] = buttonPressCount - rxMemo[pulse.source];
-        console.log(rxMemo);
         if (!Object.values(rxMemo).includes(0)) {
           return Object.values(rxMemo).reduce((previousTotal, currentValue) => (currentValue *= previousTotal), 1);
         }
@@ -156,14 +155,11 @@ const handleInputPartTwo = (input) => {
   }
 };
 
-logBenchmarkTimes(
-  [
-    ...samples.split("\n---\n").map((sample, sampleIndex, samples) => ({
-      name: `p1: sample${samples.length > 1 ? " " + sampleIndex : ""}`,
-      func: () => handleInputPartOne(sample),
-    })),
-    { name: `p1: actual`, func: () => handleInputPartOne(actual) },
-    { name: `p2: actual`, func: () => handleInputPartTwo(actual) },
-  ],
-  { runCount: 0 }
-);
+logBenchmarkTimes([
+  ...samples.split("\n---\n").map((sample, sampleIndex, samples) => ({
+    name: `p1: sample${samples.length > 1 ? " " + sampleIndex : ""}`,
+    func: () => handleInputPartOne(sample),
+  })),
+  { name: `p1: actual`, func: () => handleInputPartOne(actual) },
+  { name: `p2: actual`, func: () => handleInputPartTwo(actual) },
+]);
