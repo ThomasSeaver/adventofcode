@@ -1,7 +1,10 @@
 {
-  "[plaintext]": {
-    "editor.unicodeHighlight.ambiguousCharacters": false,
-    "editor.unicodeHighlight.invisibleCharacters": false,
-    "editor.lineHeight": 1
-  }
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
 }
