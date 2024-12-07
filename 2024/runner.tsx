@@ -100,7 +100,7 @@ const SolutionView = ({
       <Box>
         <Box
           borderStyle="single"
-          width="75%"
+          width="69%"
           flexDirection="column"
           overflowY="hidden"
         >
@@ -120,7 +120,7 @@ const SolutionView = ({
             </>
           )}
         </Box>
-        <Box width="25%" flexDirection="column">
+        <Box width="30%" flexDirection="column">
           <Box
             borderStyle="single"
             height="75%"
@@ -155,7 +155,7 @@ const SolutionView = ({
             justifyContent="space-between"
             overflowY="hidden"
           >
-            <Box minWidth="50%">
+            <Box minWidth="20%">
               <Text>Result: </Text>
             </Box>
             {result == null ? (
