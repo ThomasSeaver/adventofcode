@@ -81,7 +81,14 @@ const SolutionView = ({
         } while (messageString.length > 0);
       });
 
+      solutionProcess.stdout.on("error", (data: string) => {
+        setError(data);
+      });
+
       solutionProcess.stdout.on("close", () => {
+        setResult((currentResult) =>
+          currentResult === null ? "X" : currentResult
+        );
         onFinished();
       });
 
