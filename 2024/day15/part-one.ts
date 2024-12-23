@@ -1,4 +1,4 @@
-import { logResult, logDebug, readFile, logBenchmark } from "../util";
+import { logResult, readFile, logBenchmark } from "../util";
 logBenchmark(performance.now());
 const inputString = readFile(process.argv[2]);
 const [roomMatrixString, moveString] = inputString.split("\n\n");
@@ -7,7 +7,7 @@ const roomMatrix = roomMatrixString
   .map((roomRow) => roomRow.split(""));
 const moveList = moveString.split("\n").join("").split("");
 
-const handleMove = (sourceX, sourceY, move) => {
+const handleMove = (sourceX: number, sourceY: number, move: string) => {
   const targetX =
     move === "^" || move === "v"
       ? sourceX
@@ -20,8 +20,6 @@ const handleMove = (sourceX, sourceY, move) => {
       : move === "^"
       ? sourceY - 1
       : sourceY + 1;
-
-  // logDebug(sourceX, sourceY, move, targetX, targetY);
 
   if (
     roomMatrix[targetY][targetX] === "." ||
@@ -40,8 +38,6 @@ for (const move of moveList) {
   const sourceX = roomMatrix[sourceY].indexOf("@");
   handleMove(sourceX, sourceY, move);
 }
-
-// logDebug(roomMatrix.map((roomRow) => roomRow.join("")).join("\n"));
 
 logResult(
   roomMatrix.reduce(
