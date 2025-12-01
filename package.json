@@ -2,27 +2,18 @@
   "name": "adventofcode",
   "type": "module",
   "devDependencies": {
-    "@eslint/js": "9.15.0",
-    "@types/bun": "1.1.14",
-    "eslint": "9.15.0",
-    "eslint-plugin-react": "7.37.2",
-    "globals": "15.12.0",
-    "typescript-eslint": "8.16.0"
-  },
-  "peerDependencies": {
-    "typescript": "5.7.2"
+    "@biomejs/biome": "2.3.8",
+    "typescript": "5.9.3"
   },
   "dependencies": {
-    "@types/node": "22.10.0",
-    "@types/react": "18.3.12",
-    "ink": "5.1.0",
+    "@types/react": "19.2.7",
+    "ink": "6.5.1",
     "ink-spinner": "5.0.0",
-    "react": "18.3.1",
-    "tsx": "4.19.2"
+    "react": "19.2.0"
   },
   "scripts": {
-    "new-day": "tsx 2024/runner.tsx --new-day && tsx watch --include \"./2024/**/*\" 2024/runner.tsx",
-    "run-day": "tsx watch --include \"./2024/**/*\" 2024/runner.tsx"
-  },
-  "packageManager": "pnpm@9.8.0+sha512.8e4c3550fb500e808dbc30bb0ce4dd1eb614e30b1c55245f211591ec2cdf9c611cabd34e1364b42f564bd54b3945ed0f49d61d1bbf2ec9bd74b866fcdc723276"
+    "new-day": "bun 2025/runner.tsx --new-day && bun --watch 2025/runner.tsx",
+    "run-day": "bun --watch 2025/runner.tsx",
+    "check": "biome check --write 2025/"
+  }
 }

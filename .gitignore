@@ -1,2 +1,4 @@
 debug.txt
 node_modules
+*.log
+.DS_Store

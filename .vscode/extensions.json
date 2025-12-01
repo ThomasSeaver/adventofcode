@@ -1,7 +1,6 @@
 {
-    "recommendations": [
-        "esbenp.prettier-vscode",
-        "dbaeumer.vscode-eslint",
-        "oven.bun-vscode"
-    ]
+  "recommendations": [
+    "biomejs.biome",
+    "oven.bun-vscode"
+  ]
 }
