@@ -1,5 +1,5 @@
 import { spawn } from "node:child_process";
-import fs from "node:fs";
+import fs, { watch } from "node:fs";
 import { dirname } from "node:path";
 import { Box, render, Text } from "ink";
 import Spinner from "ink-spinner";
@@ -280,5 +280,22 @@ const FullView = () => {
     </Box>
   );
 };
+let unmount: (() => void) | null = null;
 
-render(<FullView />);
+const renderApp = () => {
+  if (unmount) {
+    unmount();
+  }
+  const instance = render(<FullView />);
+  unmount = instance.unmount;
+};
+
+watch(scriptDirectory, { recursive: true }, () => {
+  renderApp();
+});
+
+process.on("SIGINT", () => {
+  process.exit(0);
+});
+
+renderApp();
