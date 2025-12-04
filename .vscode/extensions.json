@@ -1,5 +1,6 @@
 {
 	"recommendations": [
-		"oxc.oxc"
+		"oxc.oxc-vscode",
+		"oven.bun-vscode"
 	]
 }

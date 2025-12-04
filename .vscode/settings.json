@@ -1,24 +1,9 @@
 {
-	// Use oxc for linting and formatting
-	"editor.defaultFormatter": "oxc.oxc",
-	"editor.formatOnSave": true,
+	"oxc.fmt.experimental": true,
+	"editor.defaultFormatter": "oxc.oxc-vscode",
+	"oxc.typeAware": true,
 	"editor.codeActionsOnSave": {
-		"source.fixAll": "explicit"
+		"source.fixAll.oxc": "explicit"
 	},
-	// Disable other formatters/linters to avoid conflicts
-	"[typescript]": {
-		"editor.defaultFormatter": "oxc.oxc"
-	},
-	"[typescriptreact]": {
-		"editor.defaultFormatter": "oxc.oxc"
-	},
-	"[javascript]": {
-		"editor.defaultFormatter": "oxc.oxc"
-	},
-	"[javascriptreact]": {
-		"editor.defaultFormatter": "oxc.oxc"
-	},
-	// Oxc extension settings
-	"oxc.enable": true,
-	"oxc.lint.run": "onSave"
+	"editor.formatOnSave": true
 }
