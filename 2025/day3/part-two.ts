@@ -1,4 +1,4 @@
-import { logBenchmark, logDebug, logResult, readFile } from "../util";
+import { logBenchmark, logResult, readFile, logDebug } from "../util";
 
 logBenchmark(performance.now());
 const inputString = readFile(process.argv[2] ?? "");
@@ -9,15 +9,8 @@ const inputList = inputString
 // This is weirded wordly but whatever
 const getJoltage = (array: number[], recurseCount: number): string => {
   const [selectedJoltage, selectedJoltageIndex] = array.reduce(
-    (
-      [selectedJoltage, selectedJoltageIndex],
-      currentJoltage,
-      currentJoltageIndex,
-    ) => {
-      if (
-        recurseCount < array.length - currentJoltageIndex &&
-        selectedJoltage < currentJoltage
-      ) {
+    ([selectedJoltage, selectedJoltageIndex], currentJoltage, currentJoltageIndex) => {
+      if (recurseCount < array.length - currentJoltageIndex && selectedJoltage < currentJoltage) {
         return [currentJoltage, currentJoltageIndex];
       }
       return [selectedJoltage, selectedJoltageIndex];

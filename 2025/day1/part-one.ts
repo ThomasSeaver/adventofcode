@@ -3,10 +3,7 @@ import { logBenchmark, logDebug, logResult, readFile } from "../util";
 logBenchmark(performance.now());
 const inputString = readFile(process.argv[2] ?? "");
 const rotationList = inputString.split("\n").map((inputElement) => {
-  const [direction, ...amount] = inputElement.split("") as [
-    string,
-    ...string[],
-  ];
+  const [direction, ...amount] = inputElement.split("") as [string, ...string[]];
   return [direction, parseInt(amount.join(""), 10)] satisfies [string, number];
 });
 

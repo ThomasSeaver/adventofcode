@@ -10,11 +10,7 @@ export const readFile = (filename: string) => {
   }
 };
 
-export const logDebug = (...value: unknown[]) =>
-  console.log("[DEBUG]", ...value);
-export const logResult = (...value: unknown[]) =>
-  console.log("[RESULT]", ...value);
-export const logError = (...value: unknown[]) =>
-  console.log("[ERROR]", ...value);
-export const logBenchmark = (...value: unknown[]) =>
-  console.log("[BENCHMARK]", ...value);
+export const logDebug = (...value: unknown[]) => console.log("[DEBUG]", ...value);
+export const logResult = (...value: unknown[]) => console.log("[RESULT]", ...value);
+export const logError = (...value: unknown[]) => console.log("[ERROR]", ...value);
+export const logBenchmark = (...value: unknown[]) => console.log("[BENCHMARK]", ...value);

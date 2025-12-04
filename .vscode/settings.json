@@ -1,9 +1,24 @@
 {
-  "editor.formatOnSave": true,
-  "editor.defaultFormatter": "biomejs.biome",
-  "[typescript]": {
-    "editor.defaultFormatter": "biomejs.biome"
-  },
-  "typescript.tsdk": "node_modules/typescript/lib",
-  "typescript.enablePromptUseWorkspaceTsdk": true
+	// Use oxc for linting and formatting
+	"editor.defaultFormatter": "oxc.oxc",
+	"editor.formatOnSave": true,
+	"editor.codeActionsOnSave": {
+		"source.fixAll": "explicit"
+	},
+	// Disable other formatters/linters to avoid conflicts
+	"[typescript]": {
+		"editor.defaultFormatter": "oxc.oxc"
+	},
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "oxc.oxc"
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "oxc.oxc"
+	},
+	"[javascriptreact]": {
+		"editor.defaultFormatter": "oxc.oxc"
+	},
+	// Oxc extension settings
+	"oxc.enable": true,
+	"oxc.lint.run": "onSave"
 }

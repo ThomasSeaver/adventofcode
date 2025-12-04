@@ -3,10 +3,7 @@ import { logBenchmark, logDebug, logResult, readFile } from "../util";
 logBenchmark(performance.now());
 const inputString = readFile(process.argv[2] ?? "");
 const rotationList = inputString.split("\n").map((inputElement) => {
-  const [direction, ...amount] = inputElement.split("") as [
-    string,
-    ...string[],
-  ];
+  const [direction, ...amount] = inputElement.split("") as [string, ...string[]];
   return [direction, parseInt(amount.join(""), 10)] satisfies [string, number];
 });
 
@@ -25,8 +22,7 @@ for (const [direction, amount] of rotationList) {
   }
 
   const previousResetCount = resetCount;
-  resetCount +=
-    rotationCount + ((previousDial !== 0 && dial <= 0) || 99 < dial ? 1 : 0);
+  resetCount += rotationCount + ((previousDial !== 0 && dial <= 0) || 99 < dial ? 1 : 0);
   dial = (dial + 100) % 100;
   if (resetCount - previousResetCount > 0) {
     logDebug(

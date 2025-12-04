@@ -2,7 +2,8 @@
   "name": "adventofcode",
   "type": "module",
   "devDependencies": {
-    "@biomejs/biome": "2.3.8",
+    "oxfmt": "0.16.0",
+    "oxlint": "1.31.0",
     "typescript": "5.9.3"
   },
   "dependencies": {
@@ -12,8 +13,8 @@
     "react": "19.2.0"
   },
   "scripts": {
-    "new-day": "bun 2025/runner.tsx --new-day && bun --watch 2025/runner.tsx",
-    "run-day": "bun --watch 2025/runner.tsx",
-    "check": "biome check --write 2025/"
+    "new-day": "bun 2025/runner.tsx --new-day && bun 2025/runner.tsx",
+    "run-day": "bun 2025/runner.tsx",
+    "check": "oxfmt 2025/ && oxlint 2025/"
   }
 }
