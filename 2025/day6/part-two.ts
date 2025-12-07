@@ -1,4 +1,4 @@
-import { logBenchmark, logDebug, logResult, readFile } from "../util";
+import { logBenchmark, logResult, readFile } from "../util";
 
 logBenchmark(performance.now());
 const inputString = readFile(process.argv[2] ?? "");
